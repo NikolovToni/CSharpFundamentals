@@ -1,0 +1,12 @@
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/06.ForeignLanguages/bin/Debug/netcoreapp3.1/06.ForeignLanguages.deps.json
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/06.ForeignLanguages/bin/Debug/netcoreapp3.1/06.ForeignLanguages.runtimeconfig.json
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/06.ForeignLanguages/bin/Debug/netcoreapp3.1/06.ForeignLanguages.runtimeconfig.dev.json
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/06.ForeignLanguages/bin/Debug/netcoreapp3.1/06.ForeignLanguages.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/06.ForeignLanguages/bin/Debug/netcoreapp3.1/06.ForeignLanguages.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/06.ForeignLanguages/obj/Debug/netcoreapp3.1/06.ForeignLanguages.csproj.AssemblyReference.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/06.ForeignLanguages/obj/Debug/netcoreapp3.1/06.ForeignLanguages.AssemblyInfoInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/06.ForeignLanguages/obj/Debug/netcoreapp3.1/06.ForeignLanguages.AssemblyInfo.cs
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/06.ForeignLanguages/obj/Debug/netcoreapp3.1/06.ForeignLanguages.csproj.CoreCompileInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/06.ForeignLanguages/obj/Debug/netcoreapp3.1/06.ForeignLanguages.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/06.ForeignLanguages/obj/Debug/netcoreapp3.1/06.ForeignLanguages.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/06.ForeignLanguages/obj/Debug/netcoreapp3.1/06.ForeignLanguages.genruntimeconfig.cache
