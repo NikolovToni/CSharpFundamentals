@@ -1,0 +1,12 @@
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/07.SumOfOddNumbers/bin/Debug/netcoreapp3.1/07.SumOfOddNumbers.deps.json
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/07.SumOfOddNumbers/bin/Debug/netcoreapp3.1/07.SumOfOddNumbers.runtimeconfig.json
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/07.SumOfOddNumbers/bin/Debug/netcoreapp3.1/07.SumOfOddNumbers.runtimeconfig.dev.json
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/07.SumOfOddNumbers/bin/Debug/netcoreapp3.1/07.SumOfOddNumbers.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/07.SumOfOddNumbers/bin/Debug/netcoreapp3.1/07.SumOfOddNumbers.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/07.SumOfOddNumbers/obj/Debug/netcoreapp3.1/07.SumOfOddNumbers.csproj.AssemblyReference.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/07.SumOfOddNumbers/obj/Debug/netcoreapp3.1/07.SumOfOddNumbers.AssemblyInfoInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/07.SumOfOddNumbers/obj/Debug/netcoreapp3.1/07.SumOfOddNumbers.AssemblyInfo.cs
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/07.SumOfOddNumbers/obj/Debug/netcoreapp3.1/07.SumOfOddNumbers.csproj.CoreCompileInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/07.SumOfOddNumbers/obj/Debug/netcoreapp3.1/07.SumOfOddNumbers.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/07.SumOfOddNumbers/obj/Debug/netcoreapp3.1/07.SumOfOddNumbers.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/07.SumOfOddNumbers/obj/Debug/netcoreapp3.1/07.SumOfOddNumbers.genruntimeconfig.cache
