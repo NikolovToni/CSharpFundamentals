@@ -1,25 +1,26 @@
-﻿<Properties StartupConfiguration="{D3ED947E-4CA3-47A4-A80A-BAAA5AB52506}|Default">
+﻿<Properties StartupConfiguration="{EA072582-D824-404B-B7E7-5B840F526689}|Default">
   <MonoDevelop.Ide.ItemProperties.03.PassedOrFailed PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.02.Passed PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.01.StudentInformation PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="05.MonthPrinter/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="06.ForeignLanguages/Program.cs">
     <Files>
-      <File FileName="05.MonthPrinter/Program.cs" Line="9" Column="37" />
+      <File FileName="06.ForeignLanguages/Program.cs" Line="9" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="01.IntroAndBasicSyntax" expanded="True">
-            <Node name="05.MonthPrinter" expanded="True" selected="True" />
+            <Node name="06.ForeignLanguages" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.06.ForeignLanguages FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.04.BackIn30Minutes PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.05.MonthPrinter FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.05.MonthPrinter PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
