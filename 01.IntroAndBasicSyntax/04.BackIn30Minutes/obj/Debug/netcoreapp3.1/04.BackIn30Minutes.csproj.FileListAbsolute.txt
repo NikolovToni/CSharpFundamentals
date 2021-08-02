@@ -1,0 +1,12 @@
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/04.BackIn30Minutes/bin/Debug/netcoreapp3.1/04.BackIn30Minutes.deps.json
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/04.BackIn30Minutes/bin/Debug/netcoreapp3.1/04.BackIn30Minutes.runtimeconfig.json
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/04.BackIn30Minutes/bin/Debug/netcoreapp3.1/04.BackIn30Minutes.runtimeconfig.dev.json
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/04.BackIn30Minutes/bin/Debug/netcoreapp3.1/04.BackIn30Minutes.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/04.BackIn30Minutes/bin/Debug/netcoreapp3.1/04.BackIn30Minutes.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/04.BackIn30Minutes/obj/Debug/netcoreapp3.1/04.BackIn30Minutes.csproj.AssemblyReference.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/04.BackIn30Minutes/obj/Debug/netcoreapp3.1/04.BackIn30Minutes.AssemblyInfoInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/04.BackIn30Minutes/obj/Debug/netcoreapp3.1/04.BackIn30Minutes.AssemblyInfo.cs
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/04.BackIn30Minutes/obj/Debug/netcoreapp3.1/04.BackIn30Minutes.csproj.CoreCompileInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/04.BackIn30Minutes/obj/Debug/netcoreapp3.1/04.BackIn30Minutes.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/04.BackIn30Minutes/obj/Debug/netcoreapp3.1/04.BackIn30Minutes.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/04.BackIn30Minutes/obj/Debug/netcoreapp3.1/04.BackIn30Minutes.genruntimeconfig.cache
