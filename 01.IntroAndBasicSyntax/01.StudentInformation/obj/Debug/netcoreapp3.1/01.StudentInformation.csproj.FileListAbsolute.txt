@@ -1,0 +1,12 @@
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/01.StudentInformation/bin/Debug/netcoreapp3.1/01.StudentInformation.deps.json
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/01.StudentInformation/bin/Debug/netcoreapp3.1/01.StudentInformation.runtimeconfig.json
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/01.StudentInformation/bin/Debug/netcoreapp3.1/01.StudentInformation.runtimeconfig.dev.json
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/01.StudentInformation/bin/Debug/netcoreapp3.1/01.StudentInformation.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/01.StudentInformation/bin/Debug/netcoreapp3.1/01.StudentInformation.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/01.StudentInformation/obj/Debug/netcoreapp3.1/01.StudentInformation.csproj.AssemblyReference.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/01.StudentInformation/obj/Debug/netcoreapp3.1/01.StudentInformation.AssemblyInfoInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/01.StudentInformation/obj/Debug/netcoreapp3.1/01.StudentInformation.AssemblyInfo.cs
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/01.StudentInformation/obj/Debug/netcoreapp3.1/01.StudentInformation.csproj.CoreCompileInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/01.StudentInformation/obj/Debug/netcoreapp3.1/01.StudentInformation.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/01.StudentInformation/obj/Debug/netcoreapp3.1/01.StudentInformation.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/01.StudentInformation/obj/Debug/netcoreapp3.1/01.StudentInformation.genruntimeconfig.cache
