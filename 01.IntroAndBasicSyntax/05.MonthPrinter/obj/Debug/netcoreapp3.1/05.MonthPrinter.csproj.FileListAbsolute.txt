@@ -1,0 +1,12 @@
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/05.MonthPrinter/bin/Debug/netcoreapp3.1/05.MonthPrinter.deps.json
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/05.MonthPrinter/bin/Debug/netcoreapp3.1/05.MonthPrinter.runtimeconfig.json
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/05.MonthPrinter/bin/Debug/netcoreapp3.1/05.MonthPrinter.runtimeconfig.dev.json
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/05.MonthPrinter/bin/Debug/netcoreapp3.1/05.MonthPrinter.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/05.MonthPrinter/bin/Debug/netcoreapp3.1/05.MonthPrinter.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/05.MonthPrinter/obj/Debug/netcoreapp3.1/05.MonthPrinter.csproj.AssemblyReference.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/05.MonthPrinter/obj/Debug/netcoreapp3.1/05.MonthPrinter.AssemblyInfoInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/05.MonthPrinter/obj/Debug/netcoreapp3.1/05.MonthPrinter.AssemblyInfo.cs
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/05.MonthPrinter/obj/Debug/netcoreapp3.1/05.MonthPrinter.csproj.CoreCompileInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/05.MonthPrinter/obj/Debug/netcoreapp3.1/05.MonthPrinter.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/05.MonthPrinter/obj/Debug/netcoreapp3.1/05.MonthPrinter.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/05.MonthPrinter/obj/Debug/netcoreapp3.1/05.MonthPrinter.genruntimeconfig.cache
