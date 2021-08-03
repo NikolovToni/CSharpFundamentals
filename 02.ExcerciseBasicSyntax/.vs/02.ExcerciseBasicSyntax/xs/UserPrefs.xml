@@ -1,25 +1,24 @@
-﻿<Properties StartupConfiguration="{F151AA0B-3E4F-4275-B83F-D914CDE5565C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="01.Ages/Program.cs">
+﻿<Properties StartupConfiguration="{65EF084F-1217-45E4-896D-D3328FA520F3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="02.Divison/Program.cs">
     <Files>
-      <File FileName="01.Ages/Program.cs" Line="1" Column="1" />
+      <File FileName="02.Divison/Program.cs" Line="9" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="02.ExcerciseBasicSyntax" expanded="True">
-            <Node name="01.Ages" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="02.Divison" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.02.Divison FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.01.Ages FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.01.Ages PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
