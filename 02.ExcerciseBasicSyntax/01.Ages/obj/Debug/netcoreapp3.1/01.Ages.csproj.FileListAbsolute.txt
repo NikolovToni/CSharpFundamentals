@@ -1,0 +1,12 @@
+/Users/toninikolov/Desktop/CSharpFundamentals/02.ExcerciseBasicSyntax/01.Ages/obj/Debug/netcoreapp3.1/01.Ages.csproj.AssemblyReference.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/02.ExcerciseBasicSyntax/01.Ages/obj/Debug/netcoreapp3.1/01.Ages.AssemblyInfoInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/02.ExcerciseBasicSyntax/01.Ages/obj/Debug/netcoreapp3.1/01.Ages.AssemblyInfo.cs
+/Users/toninikolov/Desktop/CSharpFundamentals/02.ExcerciseBasicSyntax/01.Ages/obj/Debug/netcoreapp3.1/01.Ages.csproj.CoreCompileInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/02.ExcerciseBasicSyntax/01.Ages/bin/Debug/netcoreapp3.1/01.Ages.deps.json
+/Users/toninikolov/Desktop/CSharpFundamentals/02.ExcerciseBasicSyntax/01.Ages/bin/Debug/netcoreapp3.1/01.Ages.runtimeconfig.json
+/Users/toninikolov/Desktop/CSharpFundamentals/02.ExcerciseBasicSyntax/01.Ages/bin/Debug/netcoreapp3.1/01.Ages.runtimeconfig.dev.json
+/Users/toninikolov/Desktop/CSharpFundamentals/02.ExcerciseBasicSyntax/01.Ages/bin/Debug/netcoreapp3.1/01.Ages.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/02.ExcerciseBasicSyntax/01.Ages/bin/Debug/netcoreapp3.1/01.Ages.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/02.ExcerciseBasicSyntax/01.Ages/obj/Debug/netcoreapp3.1/01.Ages.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/02.ExcerciseBasicSyntax/01.Ages/obj/Debug/netcoreapp3.1/01.Ages.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/02.ExcerciseBasicSyntax/01.Ages/obj/Debug/netcoreapp3.1/01.Ages.genruntimeconfig.cache
