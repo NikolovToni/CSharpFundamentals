@@ -6,7 +6,15 @@ namespace _09.EvenNumber
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int n;
+
+            while (true)
+            {
+                n = int.Parse(Console.ReadLine());
+                Console.WriteLine("Please write an even number.");
+            }
+
+
         }
     }
 }

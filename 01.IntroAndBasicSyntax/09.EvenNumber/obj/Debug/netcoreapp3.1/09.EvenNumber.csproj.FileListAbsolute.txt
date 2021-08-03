@@ -1,0 +1,12 @@
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/09.EvenNumber/bin/Debug/netcoreapp3.1/09.EvenNumber.deps.json
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/09.EvenNumber/bin/Debug/netcoreapp3.1/09.EvenNumber.runtimeconfig.json
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/09.EvenNumber/bin/Debug/netcoreapp3.1/09.EvenNumber.runtimeconfig.dev.json
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/09.EvenNumber/bin/Debug/netcoreapp3.1/09.EvenNumber.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/09.EvenNumber/bin/Debug/netcoreapp3.1/09.EvenNumber.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/09.EvenNumber/obj/Debug/netcoreapp3.1/09.EvenNumber.csproj.AssemblyReference.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/09.EvenNumber/obj/Debug/netcoreapp3.1/09.EvenNumber.AssemblyInfoInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/09.EvenNumber/obj/Debug/netcoreapp3.1/09.EvenNumber.AssemblyInfo.cs
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/09.EvenNumber/obj/Debug/netcoreapp3.1/09.EvenNumber.csproj.CoreCompileInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/09.EvenNumber/obj/Debug/netcoreapp3.1/09.EvenNumber.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/09.EvenNumber/obj/Debug/netcoreapp3.1/09.EvenNumber.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/01.IntroAndBasicSyntax/09.EvenNumber/obj/Debug/netcoreapp3.1/09.EvenNumber.genruntimeconfig.cache
