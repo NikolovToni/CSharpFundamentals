@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.ForeignLanguages", "06.F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.SumOfOddNumbers", "07.SumOfOddNumbers\07.SumOfOddNumbers.csproj", "{98CD1EE2-8536-44AE-AA2D-2AE229850292}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.MultiplicationTable", "08.MultiplicationTable\08.MultiplicationTable.csproj", "{648DDF15-8F40-4291-8F0A-B56A15CB254B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{98CD1EE2-8536-44AE-AA2D-2AE229850292}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98CD1EE2-8536-44AE-AA2D-2AE229850292}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98CD1EE2-8536-44AE-AA2D-2AE229850292}.Release|Any CPU.Build.0 = Release|Any CPU
+		{648DDF15-8F40-4291-8F0A-B56A15CB254B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{648DDF15-8F40-4291-8F0A-B56A15CB254B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{648DDF15-8F40-4291-8F0A-B56A15CB254B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{648DDF15-8F40-4291-8F0A-B56A15CB254B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
