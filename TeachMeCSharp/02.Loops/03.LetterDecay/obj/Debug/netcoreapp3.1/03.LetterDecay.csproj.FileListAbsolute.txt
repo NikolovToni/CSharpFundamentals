@@ -1,0 +1,12 @@
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/03.LetterDecay/bin/Debug/netcoreapp3.1/03.LetterDecay.deps.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/03.LetterDecay/bin/Debug/netcoreapp3.1/03.LetterDecay.runtimeconfig.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/03.LetterDecay/bin/Debug/netcoreapp3.1/03.LetterDecay.runtimeconfig.dev.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/03.LetterDecay/bin/Debug/netcoreapp3.1/03.LetterDecay.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/03.LetterDecay/bin/Debug/netcoreapp3.1/03.LetterDecay.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/03.LetterDecay/obj/Debug/netcoreapp3.1/03.LetterDecay.csproj.AssemblyReference.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/03.LetterDecay/obj/Debug/netcoreapp3.1/03.LetterDecay.AssemblyInfoInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/03.LetterDecay/obj/Debug/netcoreapp3.1/03.LetterDecay.AssemblyInfo.cs
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/03.LetterDecay/obj/Debug/netcoreapp3.1/03.LetterDecay.csproj.CoreCompileInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/03.LetterDecay/obj/Debug/netcoreapp3.1/03.LetterDecay.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/03.LetterDecay/obj/Debug/netcoreapp3.1/03.LetterDecay.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/03.LetterDecay/obj/Debug/netcoreapp3.1/03.LetterDecay.genruntimeconfig.cache
