@@ -1,0 +1,12 @@
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/01.Exercise/01.Exercise/04.Scholarship/obj/Debug/netcoreapp3.1/04.Scholarship.csproj.AssemblyReference.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/01.Exercise/01.Exercise/04.Scholarship/obj/Debug/netcoreapp3.1/04.Scholarship.AssemblyInfoInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/01.Exercise/01.Exercise/04.Scholarship/obj/Debug/netcoreapp3.1/04.Scholarship.AssemblyInfo.cs
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/01.Exercise/01.Exercise/04.Scholarship/obj/Debug/netcoreapp3.1/04.Scholarship.csproj.CoreCompileInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/01.Exercise/01.Exercise/04.Scholarship/bin/Debug/netcoreapp3.1/04.Scholarship.deps.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/01.Exercise/01.Exercise/04.Scholarship/bin/Debug/netcoreapp3.1/04.Scholarship.runtimeconfig.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/01.Exercise/01.Exercise/04.Scholarship/bin/Debug/netcoreapp3.1/04.Scholarship.runtimeconfig.dev.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/01.Exercise/01.Exercise/04.Scholarship/bin/Debug/netcoreapp3.1/04.Scholarship.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/01.Exercise/01.Exercise/04.Scholarship/bin/Debug/netcoreapp3.1/04.Scholarship.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/01.Exercise/01.Exercise/04.Scholarship/obj/Debug/netcoreapp3.1/04.Scholarship.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/01.Exercise/01.Exercise/04.Scholarship/obj/Debug/netcoreapp3.1/04.Scholarship.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/01.Exercise/01.Exercise/04.Scholarship/obj/Debug/netcoreapp3.1/04.Scholarship.genruntimeconfig.cache
