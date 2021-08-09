@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{412C513A-DA79-4A5E-B2C3-8A77684A1D12}|Default">
+﻿<Properties StartupConfiguration="{15407E7A-5278-4D89-B9FF-4505E9E4739F}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="02.HarvestWheat/Program.cs">
     <Files>
       <File FileName="02.HarvestWheat/Program.cs" Line="1" Column="1" />
@@ -15,7 +15,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.02.HarvestWheat FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.02.HarvestWheat FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.01.TriangleArea PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

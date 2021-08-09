@@ -1,0 +1,12 @@
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/01.Exercise/01.Exercise/02.HarvestWheat/bin/Debug/netcoreapp3.1/02.HarvestWheat.deps.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/01.Exercise/01.Exercise/02.HarvestWheat/bin/Debug/netcoreapp3.1/02.HarvestWheat.runtimeconfig.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/01.Exercise/01.Exercise/02.HarvestWheat/bin/Debug/netcoreapp3.1/02.HarvestWheat.runtimeconfig.dev.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/01.Exercise/01.Exercise/02.HarvestWheat/bin/Debug/netcoreapp3.1/02.HarvestWheat.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/01.Exercise/01.Exercise/02.HarvestWheat/bin/Debug/netcoreapp3.1/02.HarvestWheat.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/01.Exercise/01.Exercise/02.HarvestWheat/obj/Debug/netcoreapp3.1/02.HarvestWheat.csproj.AssemblyReference.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/01.Exercise/01.Exercise/02.HarvestWheat/obj/Debug/netcoreapp3.1/02.HarvestWheat.AssemblyInfoInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/01.Exercise/01.Exercise/02.HarvestWheat/obj/Debug/netcoreapp3.1/02.HarvestWheat.AssemblyInfo.cs
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/01.Exercise/01.Exercise/02.HarvestWheat/obj/Debug/netcoreapp3.1/02.HarvestWheat.csproj.CoreCompileInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/01.Exercise/01.Exercise/02.HarvestWheat/obj/Debug/netcoreapp3.1/02.HarvestWheat.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/01.Exercise/01.Exercise/02.HarvestWheat/obj/Debug/netcoreapp3.1/02.HarvestWheat.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/01.Exercise/01.Exercise/02.HarvestWheat/obj/Debug/netcoreapp3.1/02.HarvestWheat.genruntimeconfig.cache
