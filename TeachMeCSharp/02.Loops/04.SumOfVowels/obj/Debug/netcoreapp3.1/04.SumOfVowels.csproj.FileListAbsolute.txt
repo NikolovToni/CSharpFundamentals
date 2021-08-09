@@ -1,0 +1,12 @@
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/04.SumOfVowels/bin/Debug/netcoreapp3.1/04.SumOfVowels.deps.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/04.SumOfVowels/bin/Debug/netcoreapp3.1/04.SumOfVowels.runtimeconfig.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/04.SumOfVowels/bin/Debug/netcoreapp3.1/04.SumOfVowels.runtimeconfig.dev.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/04.SumOfVowels/bin/Debug/netcoreapp3.1/04.SumOfVowels.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/04.SumOfVowels/bin/Debug/netcoreapp3.1/04.SumOfVowels.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/04.SumOfVowels/obj/Debug/netcoreapp3.1/04.SumOfVowels.csproj.AssemblyReference.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/04.SumOfVowels/obj/Debug/netcoreapp3.1/04.SumOfVowels.AssemblyInfoInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/04.SumOfVowels/obj/Debug/netcoreapp3.1/04.SumOfVowels.AssemblyInfo.cs
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/04.SumOfVowels/obj/Debug/netcoreapp3.1/04.SumOfVowels.csproj.CoreCompileInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/04.SumOfVowels/obj/Debug/netcoreapp3.1/04.SumOfVowels.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/04.SumOfVowels/obj/Debug/netcoreapp3.1/04.SumOfVowels.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/04.SumOfVowels/obj/Debug/netcoreapp3.1/04.SumOfVowels.genruntimeconfig.cache
