@@ -1,0 +1,12 @@
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/07.Clock/bin/Debug/netcoreapp3.1/07.Clock.deps.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/07.Clock/bin/Debug/netcoreapp3.1/07.Clock.runtimeconfig.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/07.Clock/bin/Debug/netcoreapp3.1/07.Clock.runtimeconfig.dev.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/07.Clock/bin/Debug/netcoreapp3.1/07.Clock.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/07.Clock/bin/Debug/netcoreapp3.1/07.Clock.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/07.Clock/obj/Debug/netcoreapp3.1/07.Clock.csproj.AssemblyReference.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/07.Clock/obj/Debug/netcoreapp3.1/07.Clock.AssemblyInfoInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/07.Clock/obj/Debug/netcoreapp3.1/07.Clock.AssemblyInfo.cs
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/07.Clock/obj/Debug/netcoreapp3.1/07.Clock.csproj.CoreCompileInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/07.Clock/obj/Debug/netcoreapp3.1/07.Clock.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/07.Clock/obj/Debug/netcoreapp3.1/07.Clock.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/07.Clock/obj/Debug/netcoreapp3.1/07.Clock.genruntimeconfig.cache
