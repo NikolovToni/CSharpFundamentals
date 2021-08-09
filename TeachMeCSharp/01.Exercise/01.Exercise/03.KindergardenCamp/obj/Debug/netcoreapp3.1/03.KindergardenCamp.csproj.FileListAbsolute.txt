@@ -1,0 +1,12 @@
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/01.Exercise/01.Exercise/03.KindergardenCamp/bin/Debug/netcoreapp3.1/03.KindergardenCamp.deps.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/01.Exercise/01.Exercise/03.KindergardenCamp/bin/Debug/netcoreapp3.1/03.KindergardenCamp.runtimeconfig.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/01.Exercise/01.Exercise/03.KindergardenCamp/bin/Debug/netcoreapp3.1/03.KindergardenCamp.runtimeconfig.dev.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/01.Exercise/01.Exercise/03.KindergardenCamp/bin/Debug/netcoreapp3.1/03.KindergardenCamp.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/01.Exercise/01.Exercise/03.KindergardenCamp/bin/Debug/netcoreapp3.1/03.KindergardenCamp.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/01.Exercise/01.Exercise/03.KindergardenCamp/obj/Debug/netcoreapp3.1/03.KindergardenCamp.csproj.AssemblyReference.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/01.Exercise/01.Exercise/03.KindergardenCamp/obj/Debug/netcoreapp3.1/03.KindergardenCamp.AssemblyInfoInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/01.Exercise/01.Exercise/03.KindergardenCamp/obj/Debug/netcoreapp3.1/03.KindergardenCamp.AssemblyInfo.cs
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/01.Exercise/01.Exercise/03.KindergardenCamp/obj/Debug/netcoreapp3.1/03.KindergardenCamp.csproj.CoreCompileInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/01.Exercise/01.Exercise/03.KindergardenCamp/obj/Debug/netcoreapp3.1/03.KindergardenCamp.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/01.Exercise/01.Exercise/03.KindergardenCamp/obj/Debug/netcoreapp3.1/03.KindergardenCamp.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/01.Exercise/01.Exercise/03.KindergardenCamp/obj/Debug/netcoreapp3.1/03.KindergardenCamp.genruntimeconfig.cache
