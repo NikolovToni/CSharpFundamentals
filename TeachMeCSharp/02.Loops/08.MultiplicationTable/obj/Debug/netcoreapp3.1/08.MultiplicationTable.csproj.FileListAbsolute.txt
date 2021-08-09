@@ -1,0 +1,12 @@
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/08.MultiplicationTable/bin/Debug/netcoreapp3.1/08.MultiplicationTable.deps.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/08.MultiplicationTable/bin/Debug/netcoreapp3.1/08.MultiplicationTable.runtimeconfig.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/08.MultiplicationTable/bin/Debug/netcoreapp3.1/08.MultiplicationTable.runtimeconfig.dev.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/08.MultiplicationTable/bin/Debug/netcoreapp3.1/08.MultiplicationTable.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/08.MultiplicationTable/bin/Debug/netcoreapp3.1/08.MultiplicationTable.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/08.MultiplicationTable/obj/Debug/netcoreapp3.1/08.MultiplicationTable.csproj.AssemblyReference.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/08.MultiplicationTable/obj/Debug/netcoreapp3.1/08.MultiplicationTable.AssemblyInfoInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/08.MultiplicationTable/obj/Debug/netcoreapp3.1/08.MultiplicationTable.AssemblyInfo.cs
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/08.MultiplicationTable/obj/Debug/netcoreapp3.1/08.MultiplicationTable.csproj.CoreCompileInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/08.MultiplicationTable/obj/Debug/netcoreapp3.1/08.MultiplicationTable.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/08.MultiplicationTable/obj/Debug/netcoreapp3.1/08.MultiplicationTable.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/08.MultiplicationTable/obj/Debug/netcoreapp3.1/08.MultiplicationTable.genruntimeconfig.cache
