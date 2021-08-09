@@ -1,0 +1,12 @@
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/01.OneToN/bin/Debug/netcoreapp3.1/01.OneToN.deps.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/01.OneToN/bin/Debug/netcoreapp3.1/01.OneToN.runtimeconfig.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/01.OneToN/bin/Debug/netcoreapp3.1/01.OneToN.runtimeconfig.dev.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/01.OneToN/bin/Debug/netcoreapp3.1/01.OneToN.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/01.OneToN/bin/Debug/netcoreapp3.1/01.OneToN.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/01.OneToN/obj/Debug/netcoreapp3.1/01.OneToN.csproj.AssemblyReference.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/01.OneToN/obj/Debug/netcoreapp3.1/01.OneToN.AssemblyInfoInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/01.OneToN/obj/Debug/netcoreapp3.1/01.OneToN.AssemblyInfo.cs
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/01.OneToN/obj/Debug/netcoreapp3.1/01.OneToN.csproj.CoreCompileInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/01.OneToN/obj/Debug/netcoreapp3.1/01.OneToN.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/01.OneToN/obj/Debug/netcoreapp3.1/01.OneToN.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/01.OneToN/obj/Debug/netcoreapp3.1/01.OneToN.genruntimeconfig.cache
