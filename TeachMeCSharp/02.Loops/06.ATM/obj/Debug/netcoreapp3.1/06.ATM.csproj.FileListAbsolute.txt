@@ -1,0 +1,12 @@
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/06.ATM/bin/Debug/netcoreapp3.1/06.ATM.deps.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/06.ATM/bin/Debug/netcoreapp3.1/06.ATM.runtimeconfig.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/06.ATM/bin/Debug/netcoreapp3.1/06.ATM.runtimeconfig.dev.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/06.ATM/bin/Debug/netcoreapp3.1/06.ATM.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/06.ATM/bin/Debug/netcoreapp3.1/06.ATM.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/06.ATM/obj/Debug/netcoreapp3.1/06.ATM.csproj.AssemblyReference.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/06.ATM/obj/Debug/netcoreapp3.1/06.ATM.AssemblyInfoInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/06.ATM/obj/Debug/netcoreapp3.1/06.ATM.AssemblyInfo.cs
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/06.ATM/obj/Debug/netcoreapp3.1/06.ATM.csproj.CoreCompileInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/06.ATM/obj/Debug/netcoreapp3.1/06.ATM.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/06.ATM/obj/Debug/netcoreapp3.1/06.ATM.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/06.ATM/obj/Debug/netcoreapp3.1/06.ATM.genruntimeconfig.cache
