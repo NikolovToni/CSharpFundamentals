@@ -1,0 +1,12 @@
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/05.UserLogin/bin/Debug/netcoreapp3.1/05.UserLogin.deps.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/05.UserLogin/bin/Debug/netcoreapp3.1/05.UserLogin.runtimeconfig.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/05.UserLogin/bin/Debug/netcoreapp3.1/05.UserLogin.runtimeconfig.dev.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/05.UserLogin/bin/Debug/netcoreapp3.1/05.UserLogin.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/05.UserLogin/bin/Debug/netcoreapp3.1/05.UserLogin.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/05.UserLogin/obj/Debug/netcoreapp3.1/05.UserLogin.csproj.AssemblyReference.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/05.UserLogin/obj/Debug/netcoreapp3.1/05.UserLogin.AssemblyInfoInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/05.UserLogin/obj/Debug/netcoreapp3.1/05.UserLogin.AssemblyInfo.cs
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/05.UserLogin/obj/Debug/netcoreapp3.1/05.UserLogin.csproj.CoreCompileInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/05.UserLogin/obj/Debug/netcoreapp3.1/05.UserLogin.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/05.UserLogin/obj/Debug/netcoreapp3.1/05.UserLogin.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/05.UserLogin/obj/Debug/netcoreapp3.1/05.UserLogin.genruntimeconfig.cache
