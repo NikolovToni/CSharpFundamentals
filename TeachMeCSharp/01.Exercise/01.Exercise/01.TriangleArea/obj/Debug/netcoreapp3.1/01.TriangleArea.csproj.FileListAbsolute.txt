@@ -1,0 +1,12 @@
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/01.Exercise/01.Exercise/01.TriangleArea/bin/Debug/netcoreapp3.1/01.TriangleArea.deps.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/01.Exercise/01.Exercise/01.TriangleArea/bin/Debug/netcoreapp3.1/01.TriangleArea.runtimeconfig.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/01.Exercise/01.Exercise/01.TriangleArea/bin/Debug/netcoreapp3.1/01.TriangleArea.runtimeconfig.dev.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/01.Exercise/01.Exercise/01.TriangleArea/bin/Debug/netcoreapp3.1/01.TriangleArea.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/01.Exercise/01.Exercise/01.TriangleArea/bin/Debug/netcoreapp3.1/01.TriangleArea.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/01.Exercise/01.Exercise/01.TriangleArea/obj/Debug/netcoreapp3.1/01.TriangleArea.csproj.AssemblyReference.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/01.Exercise/01.Exercise/01.TriangleArea/obj/Debug/netcoreapp3.1/01.TriangleArea.AssemblyInfoInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/01.Exercise/01.Exercise/01.TriangleArea/obj/Debug/netcoreapp3.1/01.TriangleArea.AssemblyInfo.cs
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/01.Exercise/01.Exercise/01.TriangleArea/obj/Debug/netcoreapp3.1/01.TriangleArea.csproj.CoreCompileInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/01.Exercise/01.Exercise/01.TriangleArea/obj/Debug/netcoreapp3.1/01.TriangleArea.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/01.Exercise/01.Exercise/01.TriangleArea/obj/Debug/netcoreapp3.1/01.TriangleArea.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/01.Exercise/01.Exercise/01.TriangleArea/obj/Debug/netcoreapp3.1/01.TriangleArea.genruntimeconfig.cache
