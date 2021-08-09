@@ -1,15 +1,14 @@
-﻿<Properties StartupConfiguration="{1C8EAA4E-30D3-4B38-B549-D8E2A829D56F}|Default">
+﻿<Properties StartupConfiguration="{08C06325-18E2-44AD-8D9B-7095442B9FCA}|Default">
   <MonoDevelop.Ide.ItemProperties.01.OneToN PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="02.OneToNThrough/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="03.LetterDecay/Program.cs">
     <Files>
-      <File FileName="02.OneToNThrough/Program.cs" Line="9" Column="22" />
+      <File FileName="03.LetterDecay/Program.cs" Line="11" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="02.Loops" expanded="True">
-            <Node name="01.OneToN" expanded="True" />
-            <Node name="02.OneToNThrough" expanded="True">
+            <Node name="03.LetterDecay" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -18,10 +17,11 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.03.LetterDecay FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.02.OneToNThrough FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.02.OneToNThrough PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
