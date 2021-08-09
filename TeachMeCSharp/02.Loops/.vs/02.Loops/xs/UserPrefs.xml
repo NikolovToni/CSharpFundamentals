@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{5E11D435-78F3-46D8-9EA4-E1C566C617C4}|Default">
+﻿<Properties StartupConfiguration="{3EB895A3-FE73-4138-BA50-958F6E37F6C5}|Default">
   <MonoDevelop.Ide.ItemProperties.06.ATM PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.01.OneToN PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.08.MultiplicationTable PreferredExecutionTarget="MonoDevelop.Default" />
@@ -23,7 +23,7 @@
   <MonoDevelop.Ide.ItemProperties.03.LetterDecay PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.07.Clock PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.05.UserLogin PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.09.NewBuilding FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.09.NewBuilding FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
