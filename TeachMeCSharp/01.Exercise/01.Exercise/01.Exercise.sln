@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.TriangleArea", "01.Trian
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.HarvestWheat", "02.HarvestWheat\02.HarvestWheat.csproj", "{15407E7A-5278-4D89-B9FF-4505E9E4739F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.KindergardenCamp", "03.KindergardenCamp\03.KindergardenCamp.csproj", "{EC8B6E63-EFDC-492B-AEF7-9833CEE4C950}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{15407E7A-5278-4D89-B9FF-4505E9E4739F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15407E7A-5278-4D89-B9FF-4505E9E4739F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15407E7A-5278-4D89-B9FF-4505E9E4739F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC8B6E63-EFDC-492B-AEF7-9833CEE4C950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC8B6E63-EFDC-492B-AEF7-9833CEE4C950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC8B6E63-EFDC-492B-AEF7-9833CEE4C950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC8B6E63-EFDC-492B-AEF7-9833CEE4C950}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
