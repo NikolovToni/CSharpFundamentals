@@ -1,16 +1,18 @@
-﻿<Properties StartupConfiguration="{8B3C0BC7-803A-4FC1-A2B3-BA7486C786AC}|Default">
-  <MonoDevelop.Ide.ItemProperties.06.ATM FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{56DBAF64-A06A-4B3C-B449-363A7682B645}|Default">
+  <MonoDevelop.Ide.ItemProperties.06.ATM PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.01.OneToN PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.04.SumOfVowels PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="06.ATM/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="07.Clock/Program.cs">
     <Files>
-      <File FileName="06.ATM/Program.cs" Line="9" Column="22" />
+      <File FileName="07.Clock/Program.cs" Line="9" Column="21" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="02.Loops" expanded="True">
-            <Node name="06.ATM" expanded="True" selected="True" />
+            <Node name="07.Clock" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -18,6 +20,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.03.LetterDecay PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.07.Clock FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.05.UserLogin PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
