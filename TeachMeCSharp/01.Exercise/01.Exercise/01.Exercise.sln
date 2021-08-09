@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.HarvestWheat", "02.Harve
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.KindergardenCamp", "03.KindergardenCamp\03.KindergardenCamp.csproj", "{EC8B6E63-EFDC-492B-AEF7-9833CEE4C950}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Scholarship", "04.Scholarship\04.Scholarship.csproj", "{5B6B8C7D-77BF-4EBE-AC3B-7328F2E0F6A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{EC8B6E63-EFDC-492B-AEF7-9833CEE4C950}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC8B6E63-EFDC-492B-AEF7-9833CEE4C950}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC8B6E63-EFDC-492B-AEF7-9833CEE4C950}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B6B8C7D-77BF-4EBE-AC3B-7328F2E0F6A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B6B8C7D-77BF-4EBE-AC3B-7328F2E0F6A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B6B8C7D-77BF-4EBE-AC3B-7328F2E0F6A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B6B8C7D-77BF-4EBE-AC3B-7328F2E0F6A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

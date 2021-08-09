@@ -1,17 +1,14 @@
-﻿<Properties StartupConfiguration="{EC8B6E63-EFDC-492B-AEF7-9833CEE4C950}|Default">
-  <MonoDevelop.Ide.ItemProperties.03.KindergardenCamp FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="03.KindergardenCamp/Program.cs">
+﻿<Properties StartupConfiguration="{5B6B8C7D-77BF-4EBE-AC3B-7328F2E0F6A4}|Default">
+  <MonoDevelop.Ide.ItemProperties.03.KindergardenCamp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="04.Scholarship/Program.cs">
     <Files>
-      <File FileName="03.KindergardenCamp/Program.cs" Line="9" Column="27" />
+      <File FileName="04.Scholarship/Program.cs" Line="9" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="01.Exercise" expanded="True">
-            <Node name="02.HarvestWheat" expanded="True" />
-            <Node name="03.KindergardenCamp" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="04.Scholarship" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>
@@ -21,6 +18,7 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.01.TriangleArea PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.04.Scholarship FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
