@@ -1,0 +1,12 @@
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/10.MagicNumber/obj/Debug/netcoreapp3.1/10.MagicNumber.csproj.AssemblyReference.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/10.MagicNumber/obj/Debug/netcoreapp3.1/10.MagicNumber.AssemblyInfoInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/10.MagicNumber/obj/Debug/netcoreapp3.1/10.MagicNumber.AssemblyInfo.cs
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/10.MagicNumber/obj/Debug/netcoreapp3.1/10.MagicNumber.csproj.CoreCompileInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/10.MagicNumber/bin/Debug/netcoreapp3.1/10.MagicNumber.deps.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/10.MagicNumber/bin/Debug/netcoreapp3.1/10.MagicNumber.runtimeconfig.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/10.MagicNumber/bin/Debug/netcoreapp3.1/10.MagicNumber.runtimeconfig.dev.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/10.MagicNumber/bin/Debug/netcoreapp3.1/10.MagicNumber.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/10.MagicNumber/bin/Debug/netcoreapp3.1/10.MagicNumber.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/10.MagicNumber/obj/Debug/netcoreapp3.1/10.MagicNumber.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/10.MagicNumber/obj/Debug/netcoreapp3.1/10.MagicNumber.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/02.Loops/10.MagicNumber/obj/Debug/netcoreapp3.1/10.MagicNumber.genruntimeconfig.cache

@@ -1,5 +1,5 @@
-﻿<Properties StartupConfiguration="{3EB895A3-FE73-4138-BA50-958F6E37F6C5}|Default">
-  <MonoDevelop.Ide.ItemProperties.10.MagicNumber FirstBuild="True" />
+﻿<Properties StartupConfiguration="{641DCAC3-5E1D-4CBF-84D5-6570ED284802}|Default">
+  <MonoDevelop.Ide.ItemProperties.10.MagicNumber FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.06.ATM PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.01.OneToN PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.08.MultiplicationTable PreferredExecutionTarget="MonoDevelop.Default" />
