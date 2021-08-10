@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{351CC372-91DE-43F2-9F88-BA98F3B39608}|Default">
+﻿<Properties StartupConfiguration="{C2F3BF9B-6689-4DE1-A0AD-E1C215BBF0A8}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="03.FamilyBudget/Program.cs">
     <Files>
       <File FileName="03.FamilyBudget/Program.cs" Line="1" Column="1" />
@@ -16,7 +16,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.02.ExamStatistics PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.03.FamilyBudget FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.03.FamilyBudget FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.01.AvgNumber PreferredExecutionTarget="MonoDevelop.Default" />

@@ -1,0 +1,12 @@
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/03.LoopsExercise/03.FamilyBudget/bin/Debug/netcoreapp3.1/03.FamilyBudget.deps.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/03.LoopsExercise/03.FamilyBudget/bin/Debug/netcoreapp3.1/03.FamilyBudget.runtimeconfig.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/03.LoopsExercise/03.FamilyBudget/bin/Debug/netcoreapp3.1/03.FamilyBudget.runtimeconfig.dev.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/03.LoopsExercise/03.FamilyBudget/bin/Debug/netcoreapp3.1/03.FamilyBudget.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/03.LoopsExercise/03.FamilyBudget/bin/Debug/netcoreapp3.1/03.FamilyBudget.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/03.LoopsExercise/03.FamilyBudget/obj/Debug/netcoreapp3.1/03.FamilyBudget.csproj.AssemblyReference.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/03.LoopsExercise/03.FamilyBudget/obj/Debug/netcoreapp3.1/03.FamilyBudget.AssemblyInfoInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/03.LoopsExercise/03.FamilyBudget/obj/Debug/netcoreapp3.1/03.FamilyBudget.AssemblyInfo.cs
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/03.LoopsExercise/03.FamilyBudget/obj/Debug/netcoreapp3.1/03.FamilyBudget.csproj.CoreCompileInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/03.LoopsExercise/03.FamilyBudget/obj/Debug/netcoreapp3.1/03.FamilyBudget.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/03.LoopsExercise/03.FamilyBudget/obj/Debug/netcoreapp3.1/03.FamilyBudget.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/03.LoopsExercise/03.FamilyBudget/obj/Debug/netcoreapp3.1/03.FamilyBudget.genruntimeconfig.cache
