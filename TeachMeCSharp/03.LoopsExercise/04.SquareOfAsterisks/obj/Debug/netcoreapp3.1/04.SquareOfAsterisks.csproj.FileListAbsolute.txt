@@ -1,0 +1,12 @@
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/03.LoopsExercise/04.SquareOfAsterisks/bin/Debug/netcoreapp3.1/04.SquareOfAsterisks.deps.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/03.LoopsExercise/04.SquareOfAsterisks/bin/Debug/netcoreapp3.1/04.SquareOfAsterisks.runtimeconfig.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/03.LoopsExercise/04.SquareOfAsterisks/bin/Debug/netcoreapp3.1/04.SquareOfAsterisks.runtimeconfig.dev.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/03.LoopsExercise/04.SquareOfAsterisks/bin/Debug/netcoreapp3.1/04.SquareOfAsterisks.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/03.LoopsExercise/04.SquareOfAsterisks/bin/Debug/netcoreapp3.1/04.SquareOfAsterisks.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/03.LoopsExercise/04.SquareOfAsterisks/obj/Debug/netcoreapp3.1/04.SquareOfAsterisks.csproj.AssemblyReference.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/03.LoopsExercise/04.SquareOfAsterisks/obj/Debug/netcoreapp3.1/04.SquareOfAsterisks.AssemblyInfoInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/03.LoopsExercise/04.SquareOfAsterisks/obj/Debug/netcoreapp3.1/04.SquareOfAsterisks.AssemblyInfo.cs
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/03.LoopsExercise/04.SquareOfAsterisks/obj/Debug/netcoreapp3.1/04.SquareOfAsterisks.csproj.CoreCompileInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/03.LoopsExercise/04.SquareOfAsterisks/obj/Debug/netcoreapp3.1/04.SquareOfAsterisks.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/03.LoopsExercise/04.SquareOfAsterisks/obj/Debug/netcoreapp3.1/04.SquareOfAsterisks.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/03.LoopsExercise/04.SquareOfAsterisks/obj/Debug/netcoreapp3.1/04.SquareOfAsterisks.genruntimeconfig.cache
