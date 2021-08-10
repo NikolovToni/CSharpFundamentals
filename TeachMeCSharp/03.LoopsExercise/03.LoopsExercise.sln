@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.FamilyBudget", "03.Famil
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.SquareOfAsterisks", "04.SquareOfAsterisks\04.SquareOfAsterisks.csproj", "{0E9FC35F-BF2B-4C6C-947E-F7C9B293A6EC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.RhombusOfAsterisks", "05.RhombusOfAsterisks\05.RhombusOfAsterisks.csproj", "{998AC4BF-5AC4-4C2C-B05B-B24C9EFF807B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{0E9FC35F-BF2B-4C6C-947E-F7C9B293A6EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E9FC35F-BF2B-4C6C-947E-F7C9B293A6EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E9FC35F-BF2B-4C6C-947E-F7C9B293A6EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{998AC4BF-5AC4-4C2C-B05B-B24C9EFF807B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{998AC4BF-5AC4-4C2C-B05B-B24C9EFF807B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{998AC4BF-5AC4-4C2C-B05B-B24C9EFF807B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{998AC4BF-5AC4-4C2C-B05B-B24C9EFF807B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

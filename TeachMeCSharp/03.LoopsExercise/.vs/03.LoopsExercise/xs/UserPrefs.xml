@@ -1,13 +1,15 @@
 ﻿<Properties StartupConfiguration="{0E9FC35F-BF2B-4C6C-947E-F7C9B293A6EC}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="04.SquareOfAsterisks/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="05.RhombusOfAsterisks/Program.cs">
     <Files>
-      <File FileName="04.SquareOfAsterisks/Program.cs" Line="9" Column="1" />
+      <File FileName="05.RhombusOfAsterisks/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="03.LoopsExercise" expanded="True">
-            <Node name="04.SquareOfAsterisks" expanded="True" selected="True" />
+            <Node name="05.RhombusOfAsterisks" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -15,8 +17,9 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.02.ExamStatistics PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.03.FamilyBudget PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.04.SquareOfAsterisks FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.04.SquareOfAsterisks PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.05.RhombusOfAsterisks FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.01.AvgNumber PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
