@@ -1,0 +1,12 @@
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/03.LoopsExercise/01.AvgNumber/bin/Debug/netcoreapp3.1/01.AvgNumber.deps.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/03.LoopsExercise/01.AvgNumber/bin/Debug/netcoreapp3.1/01.AvgNumber.runtimeconfig.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/03.LoopsExercise/01.AvgNumber/bin/Debug/netcoreapp3.1/01.AvgNumber.runtimeconfig.dev.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/03.LoopsExercise/01.AvgNumber/bin/Debug/netcoreapp3.1/01.AvgNumber.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/03.LoopsExercise/01.AvgNumber/bin/Debug/netcoreapp3.1/01.AvgNumber.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/03.LoopsExercise/01.AvgNumber/obj/Debug/netcoreapp3.1/01.AvgNumber.csproj.AssemblyReference.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/03.LoopsExercise/01.AvgNumber/obj/Debug/netcoreapp3.1/01.AvgNumber.AssemblyInfoInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/03.LoopsExercise/01.AvgNumber/obj/Debug/netcoreapp3.1/01.AvgNumber.AssemblyInfo.cs
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/03.LoopsExercise/01.AvgNumber/obj/Debug/netcoreapp3.1/01.AvgNumber.csproj.CoreCompileInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/03.LoopsExercise/01.AvgNumber/obj/Debug/netcoreapp3.1/01.AvgNumber.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/03.LoopsExercise/01.AvgNumber/obj/Debug/netcoreapp3.1/01.AvgNumber.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/03.LoopsExercise/01.AvgNumber/obj/Debug/netcoreapp3.1/01.AvgNumber.genruntimeconfig.cache
