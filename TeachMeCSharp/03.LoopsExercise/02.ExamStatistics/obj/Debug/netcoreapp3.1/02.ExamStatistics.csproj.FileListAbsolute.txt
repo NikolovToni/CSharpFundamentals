@@ -1,0 +1,12 @@
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/03.LoopsExercise/02.ExamStatistics/bin/Debug/netcoreapp3.1/02.ExamStatistics.deps.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/03.LoopsExercise/02.ExamStatistics/bin/Debug/netcoreapp3.1/02.ExamStatistics.runtimeconfig.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/03.LoopsExercise/02.ExamStatistics/bin/Debug/netcoreapp3.1/02.ExamStatistics.runtimeconfig.dev.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/03.LoopsExercise/02.ExamStatistics/bin/Debug/netcoreapp3.1/02.ExamStatistics.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/03.LoopsExercise/02.ExamStatistics/bin/Debug/netcoreapp3.1/02.ExamStatistics.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/03.LoopsExercise/02.ExamStatistics/obj/Debug/netcoreapp3.1/02.ExamStatistics.csproj.AssemblyReference.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/03.LoopsExercise/02.ExamStatistics/obj/Debug/netcoreapp3.1/02.ExamStatistics.AssemblyInfoInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/03.LoopsExercise/02.ExamStatistics/obj/Debug/netcoreapp3.1/02.ExamStatistics.AssemblyInfo.cs
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/03.LoopsExercise/02.ExamStatistics/obj/Debug/netcoreapp3.1/02.ExamStatistics.csproj.CoreCompileInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/03.LoopsExercise/02.ExamStatistics/obj/Debug/netcoreapp3.1/02.ExamStatistics.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/03.LoopsExercise/02.ExamStatistics/obj/Debug/netcoreapp3.1/02.ExamStatistics.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/03.LoopsExercise/02.ExamStatistics/obj/Debug/netcoreapp3.1/02.ExamStatistics.genruntimeconfig.cache
