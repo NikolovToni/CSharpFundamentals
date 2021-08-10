@@ -1,13 +1,13 @@
 ﻿<Properties StartupConfiguration="{351CC372-91DE-43F2-9F88-BA98F3B39608}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="02.ExamStatistics/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="03.FamilyBudget/Program.cs">
     <Files>
-      <File FileName="02.ExamStatistics/Program.cs" Line="1" Column="1" />
+      <File FileName="03.FamilyBudget/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="03.LoopsExercise" expanded="True">
-            <Node name="02.ExamStatistics" expanded="True">
+            <Node name="03.FamilyBudget" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -15,7 +15,8 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.02.ExamStatistics FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.02.ExamStatistics PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.03.FamilyBudget FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.01.AvgNumber PreferredExecutionTarget="MonoDevelop.Default" />
