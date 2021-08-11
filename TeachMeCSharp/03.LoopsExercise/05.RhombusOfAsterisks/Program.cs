@@ -6,18 +6,22 @@ namespace _05.RhombusOfAsterisks
     {
         static void Main(string[] args)
         {
-            int n = int.Parse(Console.ReadLine());
-
-            for (int row = 1; row <= n; row++)
+            int side = int.Parse(Console.ReadLine());
+            for (int row = 0; row < side; row++)
             {
-                for (int col = 1; col <= n - row; col++)
+                Console.Write(new string(' ', side - row - 1));
+                for (int numberOfSymbols = 0; numberOfSymbols <= row; numberOfSymbols++)
                 {
-                    Console.Write(" ");
+                    Console.Write("* ");
                 }
-                Console.Write("*");
-                for (int col = 1; col < row; col++)
+                Console.WriteLine();
+            }
+            for (int row = side - 1; row > 0; row--)
+            {
+                Console.Write(new string(' ', side - row));
+                for (int numberOfSymbols = row; numberOfSymbols > 0; numberOfSymbols--)
                 {
-                    Console.Write(" *");
+                    Console.Write("* ");
                 }
                 Console.WriteLine();
             }

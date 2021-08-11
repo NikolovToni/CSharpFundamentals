@@ -10,3 +10,4 @@
 /Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/03.LoopsExercise/05.RhombusOfAsterisks/obj/Debug/netcoreapp3.1/05.RhombusOfAsterisks.dll
 /Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/03.LoopsExercise/05.RhombusOfAsterisks/obj/Debug/netcoreapp3.1/05.RhombusOfAsterisks.pdb
 /Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/03.LoopsExercise/05.RhombusOfAsterisks/obj/Debug/netcoreapp3.1/05.RhombusOfAsterisks.genruntimeconfig.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/03.LoopsExercise/05.RhombusOfAsterisks/obj/Debug/netcoreapp3.1/05.RhombusOfAsterisks.GeneratedMSBuildEditorConfig.editorconfig
