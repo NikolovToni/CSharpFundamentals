@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{998AC4BF-5AC4-4C2C-B05B-B24C9EFF807B}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="05.RhombusOfAsterisks/Program.cs">
     <Files>
-      <File FileName="05.RhombusOfAsterisks/Program.cs" Line="1" Column="1" />
+      <File FileName="05.RhombusOfAsterisks/Program.cs" Line="13" Column="19" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -19,7 +19,7 @@
   <MonoDevelop.Ide.ItemProperties.03.FamilyBudget PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.04.SquareOfAsterisks PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.05.RhombusOfAsterisks FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.05.RhombusOfAsterisks PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.01.AvgNumber PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
