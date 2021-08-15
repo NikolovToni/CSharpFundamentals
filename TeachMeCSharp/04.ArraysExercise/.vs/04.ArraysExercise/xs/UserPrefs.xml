@@ -1,16 +1,17 @@
-﻿<Properties StartupConfiguration="{FBB88717-FC53-44B0-8448-532FCE6208FD}|Default">
+﻿<Properties StartupConfiguration="{8538CF91-50BA-43D4-B32D-BAC9F6ED52E3}|Default">
+  <MonoDevelop.Ide.ItemProperties.06.EqualArrays FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.02.ReverseString PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.03.RoundingArray PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.01.DayOfWeek PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="05.EvenOddNumbers/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="06.EqualArrays/Program.cs">
     <Files>
-      <File FileName="05.EvenOddNumbers/Program.cs" Line="9" Column="1" />
+      <File FileName="06.EqualArrays/Program.cs" Line="9" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="04.ArraysExercise" expanded="True">
-            <Node name="05.EvenOddNumbers" expanded="True">
+            <Node name="06.EqualArrays" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -25,5 +26,5 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.04.SumOfEvenNumbers PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.05.EvenOddNumbers FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.05.EvenOddNumbers PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
