@@ -1,15 +1,16 @@
-﻿<Properties StartupConfiguration="{4DD717C5-DFE7-4C95-9FA1-5DD642238AE4}|Default">
-  <MonoDevelop.Ide.ItemProperties.02.ReverseString FirstBuild="True" />
+﻿<Properties StartupConfiguration="{16BA95BA-E732-46B7-B610-D947FF9BB1AA}|Default">
+  <MonoDevelop.Ide.ItemProperties.02.ReverseString PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.03.RoundingArray FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.01.DayOfWeek PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="02.ReverseString/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="03.RoundingArray/Program.cs">
     <Files>
-      <File FileName="02.ReverseString/Program.cs" Line="1" Column="1" />
+      <File FileName="03.RoundingArray/Program.cs" Line="9" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="04.ArraysExercise" expanded="True">
-            <Node name="02.ReverseString" expanded="True">
+            <Node name="03.RoundingArray" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
