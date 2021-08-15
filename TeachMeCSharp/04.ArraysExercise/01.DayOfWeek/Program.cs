@@ -6,7 +6,7 @@ namespace _01.DayOfWeek
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
         }
     }
 }
