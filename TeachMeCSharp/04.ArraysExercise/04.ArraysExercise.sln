@@ -21,6 +21,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.Carousel", "08.Carousel\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.EqualSidesOfArray", "09.EqualSidesOfArray\09.EqualSidesOfArray.csproj", "{1F20C982-8CD5-429B-A57E-F917CC741F90}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.TheLongestSeries", "10.TheLongestSeries\10.TheLongestSeries.csproj", "{04078181-A445-4B86-ACEB-85E1D48FD595}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{1F20C982-8CD5-429B-A57E-F917CC741F90}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F20C982-8CD5-429B-A57E-F917CC741F90}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F20C982-8CD5-429B-A57E-F917CC741F90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04078181-A445-4B86-ACEB-85E1D48FD595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04078181-A445-4B86-ACEB-85E1D48FD595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04078181-A445-4B86-ACEB-85E1D48FD595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04078181-A445-4B86-ACEB-85E1D48FD595}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
