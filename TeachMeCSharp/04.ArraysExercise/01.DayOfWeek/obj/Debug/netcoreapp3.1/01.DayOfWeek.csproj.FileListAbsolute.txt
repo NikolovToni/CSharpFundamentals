@@ -1,0 +1,13 @@
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/01.DayOfWeek/bin/Debug/netcoreapp3.1/01.DayOfWeek.deps.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/01.DayOfWeek/bin/Debug/netcoreapp3.1/01.DayOfWeek.runtimeconfig.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/01.DayOfWeek/bin/Debug/netcoreapp3.1/01.DayOfWeek.runtimeconfig.dev.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/01.DayOfWeek/bin/Debug/netcoreapp3.1/01.DayOfWeek.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/01.DayOfWeek/bin/Debug/netcoreapp3.1/01.DayOfWeek.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/01.DayOfWeek/obj/Debug/netcoreapp3.1/01.DayOfWeek.csproj.AssemblyReference.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/01.DayOfWeek/obj/Debug/netcoreapp3.1/01.DayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/01.DayOfWeek/obj/Debug/netcoreapp3.1/01.DayOfWeek.AssemblyInfoInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/01.DayOfWeek/obj/Debug/netcoreapp3.1/01.DayOfWeek.AssemblyInfo.cs
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/01.DayOfWeek/obj/Debug/netcoreapp3.1/01.DayOfWeek.csproj.CoreCompileInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/01.DayOfWeek/obj/Debug/netcoreapp3.1/01.DayOfWeek.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/01.DayOfWeek/obj/Debug/netcoreapp3.1/01.DayOfWeek.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/01.DayOfWeek/obj/Debug/netcoreapp3.1/01.DayOfWeek.genruntimeconfig.cache
