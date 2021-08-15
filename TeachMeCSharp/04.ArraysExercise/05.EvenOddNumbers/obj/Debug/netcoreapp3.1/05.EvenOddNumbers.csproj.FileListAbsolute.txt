@@ -1,0 +1,13 @@
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/05.EvenOddNumbers/bin/Debug/netcoreapp3.1/05.EvenOddNumbers.deps.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/05.EvenOddNumbers/bin/Debug/netcoreapp3.1/05.EvenOddNumbers.runtimeconfig.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/05.EvenOddNumbers/bin/Debug/netcoreapp3.1/05.EvenOddNumbers.runtimeconfig.dev.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/05.EvenOddNumbers/bin/Debug/netcoreapp3.1/05.EvenOddNumbers.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/05.EvenOddNumbers/bin/Debug/netcoreapp3.1/05.EvenOddNumbers.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/05.EvenOddNumbers/obj/Debug/netcoreapp3.1/05.EvenOddNumbers.csproj.AssemblyReference.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/05.EvenOddNumbers/obj/Debug/netcoreapp3.1/05.EvenOddNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/05.EvenOddNumbers/obj/Debug/netcoreapp3.1/05.EvenOddNumbers.AssemblyInfoInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/05.EvenOddNumbers/obj/Debug/netcoreapp3.1/05.EvenOddNumbers.AssemblyInfo.cs
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/05.EvenOddNumbers/obj/Debug/netcoreapp3.1/05.EvenOddNumbers.csproj.CoreCompileInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/05.EvenOddNumbers/obj/Debug/netcoreapp3.1/05.EvenOddNumbers.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/05.EvenOddNumbers/obj/Debug/netcoreapp3.1/05.EvenOddNumbers.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/05.EvenOddNumbers/obj/Debug/netcoreapp3.1/05.EvenOddNumbers.genruntimeconfig.cache
