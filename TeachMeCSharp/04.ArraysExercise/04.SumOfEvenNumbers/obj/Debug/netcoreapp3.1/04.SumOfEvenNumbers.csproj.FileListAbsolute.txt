@@ -1,0 +1,13 @@
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/04.SumOfEvenNumbers/bin/Debug/netcoreapp3.1/04.SumOfEvenNumbers.deps.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/04.SumOfEvenNumbers/bin/Debug/netcoreapp3.1/04.SumOfEvenNumbers.runtimeconfig.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/04.SumOfEvenNumbers/bin/Debug/netcoreapp3.1/04.SumOfEvenNumbers.runtimeconfig.dev.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/04.SumOfEvenNumbers/bin/Debug/netcoreapp3.1/04.SumOfEvenNumbers.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/04.SumOfEvenNumbers/bin/Debug/netcoreapp3.1/04.SumOfEvenNumbers.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/04.SumOfEvenNumbers/obj/Debug/netcoreapp3.1/04.SumOfEvenNumbers.csproj.AssemblyReference.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/04.SumOfEvenNumbers/obj/Debug/netcoreapp3.1/04.SumOfEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/04.SumOfEvenNumbers/obj/Debug/netcoreapp3.1/04.SumOfEvenNumbers.AssemblyInfoInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/04.SumOfEvenNumbers/obj/Debug/netcoreapp3.1/04.SumOfEvenNumbers.AssemblyInfo.cs
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/04.SumOfEvenNumbers/obj/Debug/netcoreapp3.1/04.SumOfEvenNumbers.csproj.CoreCompileInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/04.SumOfEvenNumbers/obj/Debug/netcoreapp3.1/04.SumOfEvenNumbers.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/04.SumOfEvenNumbers/obj/Debug/netcoreapp3.1/04.SumOfEvenNumbers.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/04.SumOfEvenNumbers/obj/Debug/netcoreapp3.1/04.SumOfEvenNumbers.genruntimeconfig.cache
