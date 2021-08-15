@@ -1,0 +1,13 @@
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\04.ArraysExercise\09.EqualSidesOfArray\bin\Debug\netcoreapp3.1\09.EqualSidesOfArray.exe
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\04.ArraysExercise\09.EqualSidesOfArray\bin\Debug\netcoreapp3.1\09.EqualSidesOfArray.deps.json
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\04.ArraysExercise\09.EqualSidesOfArray\bin\Debug\netcoreapp3.1\09.EqualSidesOfArray.runtimeconfig.json
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\04.ArraysExercise\09.EqualSidesOfArray\bin\Debug\netcoreapp3.1\09.EqualSidesOfArray.runtimeconfig.dev.json
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\04.ArraysExercise\09.EqualSidesOfArray\bin\Debug\netcoreapp3.1\09.EqualSidesOfArray.dll
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\04.ArraysExercise\09.EqualSidesOfArray\bin\Debug\netcoreapp3.1\09.EqualSidesOfArray.pdb
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\04.ArraysExercise\09.EqualSidesOfArray\obj\Debug\netcoreapp3.1\09.EqualSidesOfArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\04.ArraysExercise\09.EqualSidesOfArray\obj\Debug\netcoreapp3.1\09.EqualSidesOfArray.AssemblyInfoInputs.cache
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\04.ArraysExercise\09.EqualSidesOfArray\obj\Debug\netcoreapp3.1\09.EqualSidesOfArray.AssemblyInfo.cs
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\04.ArraysExercise\09.EqualSidesOfArray\obj\Debug\netcoreapp3.1\09.EqualSidesOfArray.csproj.CoreCompileInputs.cache
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\04.ArraysExercise\09.EqualSidesOfArray\obj\Debug\netcoreapp3.1\09.EqualSidesOfArray.dll
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\04.ArraysExercise\09.EqualSidesOfArray\obj\Debug\netcoreapp3.1\09.EqualSidesOfArray.pdb
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\04.ArraysExercise\09.EqualSidesOfArray\obj\Debug\netcoreapp3.1\09.EqualSidesOfArray.genruntimeconfig.cache
