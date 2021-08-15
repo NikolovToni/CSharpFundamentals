@@ -1,0 +1,13 @@
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/06.EqualArrays/bin/Debug/netcoreapp3.1/06.EqualArrays.deps.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/06.EqualArrays/bin/Debug/netcoreapp3.1/06.EqualArrays.runtimeconfig.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/06.EqualArrays/bin/Debug/netcoreapp3.1/06.EqualArrays.runtimeconfig.dev.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/06.EqualArrays/bin/Debug/netcoreapp3.1/06.EqualArrays.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/06.EqualArrays/bin/Debug/netcoreapp3.1/06.EqualArrays.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/06.EqualArrays/obj/Debug/netcoreapp3.1/06.EqualArrays.csproj.AssemblyReference.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/06.EqualArrays/obj/Debug/netcoreapp3.1/06.EqualArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/06.EqualArrays/obj/Debug/netcoreapp3.1/06.EqualArrays.AssemblyInfoInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/06.EqualArrays/obj/Debug/netcoreapp3.1/06.EqualArrays.AssemblyInfo.cs
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/06.EqualArrays/obj/Debug/netcoreapp3.1/06.EqualArrays.csproj.CoreCompileInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/06.EqualArrays/obj/Debug/netcoreapp3.1/06.EqualArrays.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/06.EqualArrays/obj/Debug/netcoreapp3.1/06.EqualArrays.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/06.EqualArrays/obj/Debug/netcoreapp3.1/06.EqualArrays.genruntimeconfig.cache
