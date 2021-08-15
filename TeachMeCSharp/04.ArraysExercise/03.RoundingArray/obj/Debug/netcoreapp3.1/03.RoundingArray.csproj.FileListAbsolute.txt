@@ -1,0 +1,12 @@
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/03.RoundingArray/bin/Debug/netcoreapp3.1/03.RoundingArray.deps.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/03.RoundingArray/bin/Debug/netcoreapp3.1/03.RoundingArray.runtimeconfig.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/03.RoundingArray/bin/Debug/netcoreapp3.1/03.RoundingArray.runtimeconfig.dev.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/03.RoundingArray/bin/Debug/netcoreapp3.1/03.RoundingArray.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/03.RoundingArray/bin/Debug/netcoreapp3.1/03.RoundingArray.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/03.RoundingArray/obj/Debug/netcoreapp3.1/03.RoundingArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/03.RoundingArray/obj/Debug/netcoreapp3.1/03.RoundingArray.AssemblyInfoInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/03.RoundingArray/obj/Debug/netcoreapp3.1/03.RoundingArray.AssemblyInfo.cs
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/03.RoundingArray/obj/Debug/netcoreapp3.1/03.RoundingArray.csproj.CoreCompileInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/03.RoundingArray/obj/Debug/netcoreapp3.1/03.RoundingArray.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/03.RoundingArray/obj/Debug/netcoreapp3.1/03.RoundingArray.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/03.RoundingArray/obj/Debug/netcoreapp3.1/03.RoundingArray.genruntimeconfig.cache
