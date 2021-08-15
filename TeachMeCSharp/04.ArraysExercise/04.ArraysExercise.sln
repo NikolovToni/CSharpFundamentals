@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.EqualArrays", "06.EqualA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.Train", "07.Train\07.Train.csproj", "{ED4B7E67-8E5C-4D19-9E8C-CF86F5BADC8C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.Carousel", "08.Carousel\08.Carousel.csproj", "{FEF74293-EC76-4DEC-AFB3-E730BC098D39}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{ED4B7E67-8E5C-4D19-9E8C-CF86F5BADC8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED4B7E67-8E5C-4D19-9E8C-CF86F5BADC8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED4B7E67-8E5C-4D19-9E8C-CF86F5BADC8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEF74293-EC76-4DEC-AFB3-E730BC098D39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEF74293-EC76-4DEC-AFB3-E730BC098D39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEF74293-EC76-4DEC-AFB3-E730BC098D39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEF74293-EC76-4DEC-AFB3-E730BC098D39}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
