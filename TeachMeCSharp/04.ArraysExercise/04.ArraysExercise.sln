@@ -3,21 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.810.7
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.DayOfWeek", "01.DayOfWeek\01.DayOfWeek.csproj", "{4DD717C5-DFE7-4C95-9FA1-5DD642238AE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.DayOfWeek", "01.DayOfWeek\01.DayOfWeek.csproj", "{4DD717C5-DFE7-4C95-9FA1-5DD642238AE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ReverseString", "02.ReverseString\02.ReverseString.csproj", "{16BA95BA-E732-46B7-B610-D947FF9BB1AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.ReverseString", "02.ReverseString\02.ReverseString.csproj", "{16BA95BA-E732-46B7-B610-D947FF9BB1AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.RoundingArray", "03.RoundingArray\03.RoundingArray.csproj", "{453926BB-2664-48F1-B28C-CDBB58589DA5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.RoundingArray", "03.RoundingArray\03.RoundingArray.csproj", "{453926BB-2664-48F1-B28C-CDBB58589DA5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.SumOfEvenNumbers", "04.SumOfEvenNumbers\04.SumOfEvenNumbers.csproj", "{FBB88717-FC53-44B0-8448-532FCE6208FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.SumOfEvenNumbers", "04.SumOfEvenNumbers\04.SumOfEvenNumbers.csproj", "{FBB88717-FC53-44B0-8448-532FCE6208FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.EvenOddNumbers", "05.EvenOddNumbers\05.EvenOddNumbers.csproj", "{8538CF91-50BA-43D4-B32D-BAC9F6ED52E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.EvenOddNumbers", "05.EvenOddNumbers\05.EvenOddNumbers.csproj", "{8538CF91-50BA-43D4-B32D-BAC9F6ED52E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.EqualArrays", "06.EqualArrays\06.EqualArrays.csproj", "{BED8FD03-925C-4546-9B86-400F1A8F2645}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.EqualArrays", "06.EqualArrays\06.EqualArrays.csproj", "{BED8FD03-925C-4546-9B86-400F1A8F2645}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.Train", "07.Train\07.Train.csproj", "{ED4B7E67-8E5C-4D19-9E8C-CF86F5BADC8C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.Train", "07.Train\07.Train.csproj", "{ED4B7E67-8E5C-4D19-9E8C-CF86F5BADC8C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.Carousel", "08.Carousel\08.Carousel.csproj", "{FEF74293-EC76-4DEC-AFB3-E730BC098D39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.Carousel", "08.Carousel\08.Carousel.csproj", "{FEF74293-EC76-4DEC-AFB3-E730BC098D39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.EqualSidesOfArray", "09.EqualSidesOfArray\09.EqualSidesOfArray.csproj", "{1F20C982-8CD5-429B-A57E-F917CC741F90}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{FEF74293-EC76-4DEC-AFB3-E730BC098D39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEF74293-EC76-4DEC-AFB3-E730BC098D39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEF74293-EC76-4DEC-AFB3-E730BC098D39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F20C982-8CD5-429B-A57E-F917CC741F90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F20C982-8CD5-429B-A57E-F917CC741F90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F20C982-8CD5-429B-A57E-F917CC741F90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F20C982-8CD5-429B-A57E-F917CC741F90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
