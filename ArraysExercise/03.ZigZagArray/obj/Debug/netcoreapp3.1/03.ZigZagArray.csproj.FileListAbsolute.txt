@@ -1,0 +1,13 @@
+/Users/toninikolov/Desktop/CSharpFundamentals/ArraysExercise/03.ZigZagArray/bin/Debug/netcoreapp3.1/03.ZigZagArray.deps.json
+/Users/toninikolov/Desktop/CSharpFundamentals/ArraysExercise/03.ZigZagArray/bin/Debug/netcoreapp3.1/03.ZigZagArray.runtimeconfig.json
+/Users/toninikolov/Desktop/CSharpFundamentals/ArraysExercise/03.ZigZagArray/bin/Debug/netcoreapp3.1/03.ZigZagArray.runtimeconfig.dev.json
+/Users/toninikolov/Desktop/CSharpFundamentals/ArraysExercise/03.ZigZagArray/bin/Debug/netcoreapp3.1/03.ZigZagArray.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/ArraysExercise/03.ZigZagArray/bin/Debug/netcoreapp3.1/03.ZigZagArray.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/ArraysExercise/03.ZigZagArray/obj/Debug/netcoreapp3.1/03.ZigZagArray.csproj.AssemblyReference.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/ArraysExercise/03.ZigZagArray/obj/Debug/netcoreapp3.1/03.ZigZagArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/toninikolov/Desktop/CSharpFundamentals/ArraysExercise/03.ZigZagArray/obj/Debug/netcoreapp3.1/03.ZigZagArray.AssemblyInfoInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/ArraysExercise/03.ZigZagArray/obj/Debug/netcoreapp3.1/03.ZigZagArray.AssemblyInfo.cs
+/Users/toninikolov/Desktop/CSharpFundamentals/ArraysExercise/03.ZigZagArray/obj/Debug/netcoreapp3.1/03.ZigZagArray.csproj.CoreCompileInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/ArraysExercise/03.ZigZagArray/obj/Debug/netcoreapp3.1/03.ZigZagArray.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/ArraysExercise/03.ZigZagArray/obj/Debug/netcoreapp3.1/03.ZigZagArray.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/ArraysExercise/03.ZigZagArray/obj/Debug/netcoreapp3.1/03.ZigZagArray.genruntimeconfig.cache
