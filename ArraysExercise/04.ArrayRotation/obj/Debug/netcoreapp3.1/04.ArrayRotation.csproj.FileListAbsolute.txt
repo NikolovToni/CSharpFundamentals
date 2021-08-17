@@ -1,0 +1,12 @@
+/Users/toninikolov/Desktop/CSharpFundamentals/ArraysExercise/04.ArrayRotation/bin/Debug/netcoreapp3.1/04.ArrayRotation.deps.json
+/Users/toninikolov/Desktop/CSharpFundamentals/ArraysExercise/04.ArrayRotation/bin/Debug/netcoreapp3.1/04.ArrayRotation.runtimeconfig.json
+/Users/toninikolov/Desktop/CSharpFundamentals/ArraysExercise/04.ArrayRotation/bin/Debug/netcoreapp3.1/04.ArrayRotation.runtimeconfig.dev.json
+/Users/toninikolov/Desktop/CSharpFundamentals/ArraysExercise/04.ArrayRotation/bin/Debug/netcoreapp3.1/04.ArrayRotation.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/ArraysExercise/04.ArrayRotation/bin/Debug/netcoreapp3.1/04.ArrayRotation.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/ArraysExercise/04.ArrayRotation/obj/Debug/netcoreapp3.1/04.ArrayRotation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/toninikolov/Desktop/CSharpFundamentals/ArraysExercise/04.ArrayRotation/obj/Debug/netcoreapp3.1/04.ArrayRotation.AssemblyInfoInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/ArraysExercise/04.ArrayRotation/obj/Debug/netcoreapp3.1/04.ArrayRotation.AssemblyInfo.cs
+/Users/toninikolov/Desktop/CSharpFundamentals/ArraysExercise/04.ArrayRotation/obj/Debug/netcoreapp3.1/04.ArrayRotation.csproj.CoreCompileInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/ArraysExercise/04.ArrayRotation/obj/Debug/netcoreapp3.1/04.ArrayRotation.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/ArraysExercise/04.ArrayRotation/obj/Debug/netcoreapp3.1/04.ArrayRotation.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/ArraysExercise/04.ArrayRotation/obj/Debug/netcoreapp3.1/04.ArrayRotation.genruntimeconfig.cache
