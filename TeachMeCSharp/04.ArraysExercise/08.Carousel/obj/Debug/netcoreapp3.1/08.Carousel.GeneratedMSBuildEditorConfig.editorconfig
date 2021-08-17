@@ -1,3 +1,7 @@
 is_global = true
 build_property.RootNamespace = _08.Carousel
+<<<<<<< HEAD
 build_property.ProjectDir = /Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/08.Carousel/
+=======
+build_property.ProjectDir = C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\04.ArraysExercise\08.Carousel\
+>>>>>>> 0c7c7a80c0a098bded3aa1d4467c1bd96ba36f20

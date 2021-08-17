@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ui/GSAPaSjgNDTWHa58UDXQDIgE3OpHIsNTLFJfL/fEew4ZTLOXAjVptpuvHEQy7+sx/DBYluVQ0UxUfFTKGSg==",
+  "dgSpecHash": "6TnMna8qafIWbSjXzZhAf7cI1DiGVyMdxCXhNqZWpBaMhzhizdNN66S0ApEjUGPH47StlfqmD/E96frRqOiNMA==",
   "success": true,
-  "projectFilePath": "/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/04.SumOfEvenNumbers/04.SumOfEvenNumbers.csproj",
+  "projectFilePath": "C:\\Users\\Toni\\Desktop\\CSharpFundamentals\\TeachMeCSharp\\04.ArraysExercise\\04.SumOfEvenNumbers\\04.SumOfEvenNumbers.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

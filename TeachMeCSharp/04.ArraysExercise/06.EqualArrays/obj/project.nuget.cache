@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C8VOIheeZ7Gq+MJ9pSmbGIeX0rbNVxidnNDQH8gzKSWIYTit7JDD0nMK1BaugldusGXUW64YdBy2H+rOjfUUpA==",
+  "dgSpecHash": "R70jv0LBBF1c7jx9Tjd1VyPm3jwQmhRrzVP4hh+xIml6S8cEzaVbod5Bw5m8ay9m7yUuLHYfiQVJtBY1I3eIsQ==",
   "success": true,
-  "projectFilePath": "/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/06.EqualArrays/06.EqualArrays.csproj",
+  "projectFilePath": "C:\\Users\\Toni\\Desktop\\CSharpFundamentals\\TeachMeCSharp\\04.ArraysExercise\\06.EqualArrays\\06.EqualArrays.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
