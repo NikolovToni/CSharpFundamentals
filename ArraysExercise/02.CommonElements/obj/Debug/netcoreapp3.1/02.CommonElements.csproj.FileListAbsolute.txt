@@ -1,0 +1,13 @@
+/Users/toninikolov/Desktop/CSharpFundamentals/ArraysExercise/02.CommonElements/bin/Debug/netcoreapp3.1/02.CommonElements.deps.json
+/Users/toninikolov/Desktop/CSharpFundamentals/ArraysExercise/02.CommonElements/bin/Debug/netcoreapp3.1/02.CommonElements.runtimeconfig.json
+/Users/toninikolov/Desktop/CSharpFundamentals/ArraysExercise/02.CommonElements/bin/Debug/netcoreapp3.1/02.CommonElements.runtimeconfig.dev.json
+/Users/toninikolov/Desktop/CSharpFundamentals/ArraysExercise/02.CommonElements/bin/Debug/netcoreapp3.1/02.CommonElements.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/ArraysExercise/02.CommonElements/bin/Debug/netcoreapp3.1/02.CommonElements.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/ArraysExercise/02.CommonElements/obj/Debug/netcoreapp3.1/02.CommonElements.csproj.AssemblyReference.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/ArraysExercise/02.CommonElements/obj/Debug/netcoreapp3.1/02.CommonElements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/toninikolov/Desktop/CSharpFundamentals/ArraysExercise/02.CommonElements/obj/Debug/netcoreapp3.1/02.CommonElements.AssemblyInfoInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/ArraysExercise/02.CommonElements/obj/Debug/netcoreapp3.1/02.CommonElements.AssemblyInfo.cs
+/Users/toninikolov/Desktop/CSharpFundamentals/ArraysExercise/02.CommonElements/obj/Debug/netcoreapp3.1/02.CommonElements.csproj.CoreCompileInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/ArraysExercise/02.CommonElements/obj/Debug/netcoreapp3.1/02.CommonElements.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/ArraysExercise/02.CommonElements/obj/Debug/netcoreapp3.1/02.CommonElements.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/ArraysExercise/02.CommonElements/obj/Debug/netcoreapp3.1/02.CommonElements.genruntimeconfig.cache
