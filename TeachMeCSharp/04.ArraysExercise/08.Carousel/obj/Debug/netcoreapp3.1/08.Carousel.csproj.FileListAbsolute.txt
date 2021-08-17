@@ -1,0 +1,13 @@
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/08.Carousel/bin/Debug/netcoreapp3.1/08.Carousel.deps.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/08.Carousel/bin/Debug/netcoreapp3.1/08.Carousel.runtimeconfig.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/08.Carousel/bin/Debug/netcoreapp3.1/08.Carousel.runtimeconfig.dev.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/08.Carousel/bin/Debug/netcoreapp3.1/08.Carousel.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/08.Carousel/bin/Debug/netcoreapp3.1/08.Carousel.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/08.Carousel/obj/Debug/netcoreapp3.1/08.Carousel.csproj.AssemblyReference.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/08.Carousel/obj/Debug/netcoreapp3.1/08.Carousel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/08.Carousel/obj/Debug/netcoreapp3.1/08.Carousel.AssemblyInfoInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/08.Carousel/obj/Debug/netcoreapp3.1/08.Carousel.AssemblyInfo.cs
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/08.Carousel/obj/Debug/netcoreapp3.1/08.Carousel.csproj.CoreCompileInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/08.Carousel/obj/Debug/netcoreapp3.1/08.Carousel.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/08.Carousel/obj/Debug/netcoreapp3.1/08.Carousel.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/08.Carousel/obj/Debug/netcoreapp3.1/08.Carousel.genruntimeconfig.cache

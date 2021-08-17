@@ -5,7 +5,7 @@
   <MonoDevelop.Ide.ItemProperties.01.DayOfWeek PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="08.Carousel/Program.cs">
     <Files>
-      <File FileName="08.Carousel/Program.cs" Line="9" Column="1" />
+      <File FileName="08.Carousel/Program.cs" Line="18" Column="24" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -23,10 +23,12 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/04.ArraysExercise/08.Carousel/Program.cs" relfile="08.Carousel/Program.cs" line="18" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.04.SumOfEvenNumbers PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.08.Carousel FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.08.Carousel PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.05.EvenOddNumbers PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
