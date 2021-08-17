@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Toni\\Desktop\\CSharpFundamentals\\ArraysExercise\\03.ZigZagArray\\03.ZigZagArray.csproj": {}
+    "C:\\Users\\Toni\\Desktop\\CSharpFundamentals\\ArraysExercise\\05.TopInteges\\05.TopInteges.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Toni\\Desktop\\CSharpFundamentals\\ArraysExercise\\03.ZigZagArray\\03.ZigZagArray.csproj": {
+    "C:\\Users\\Toni\\Desktop\\CSharpFundamentals\\ArraysExercise\\05.TopInteges\\05.TopInteges.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Toni\\Desktop\\CSharpFundamentals\\ArraysExercise\\03.ZigZagArray\\03.ZigZagArray.csproj",
-        "projectName": "03.ZigZagArray",
-        "projectPath": "C:\\Users\\Toni\\Desktop\\CSharpFundamentals\\ArraysExercise\\03.ZigZagArray\\03.ZigZagArray.csproj",
+        "projectUniqueName": "C:\\Users\\Toni\\Desktop\\CSharpFundamentals\\ArraysExercise\\05.TopInteges\\05.TopInteges.csproj",
+        "projectName": "05.TopInteges",
+        "projectPath": "C:\\Users\\Toni\\Desktop\\CSharpFundamentals\\ArraysExercise\\05.TopInteges\\05.TopInteges.csproj",
         "packagesPath": "C:\\Users\\Toni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Toni\\Desktop\\CSharpFundamentals\\ArraysExercise\\03.ZigZagArray\\obj\\",
+        "outputPath": "C:\\Users\\Toni\\Desktop\\CSharpFundamentals\\ArraysExercise\\05.TopInteges\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

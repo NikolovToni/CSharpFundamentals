@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FkfA09IqRpyYY8fy+Ub1wD5zD8sNS8i1oRgTeMkzf+NrQbdyJHEKId+3qMTN3bibTGSqfqc6uxkIfM54vFZwNw==",
+  "dgSpecHash": "4ZKN+i+DPXafeMXrdy4FoK5S3mfV1PcDeM+AyoYmElniwNUe8adTarrgnJ7/rC5Mh8a91bePVFn5kA7Vcq6ZRQ==",
   "success": true,
-  "projectFilePath": "/Users/toninikolov/Desktop/CSharpFundamentals/ArraysExercise/02.CommonElements/02.CommonElements.csproj",
+  "projectFilePath": "C:\\Users\\Toni\\Desktop\\CSharpFundamentals\\ArraysExercise\\02.CommonElements\\02.CommonElements.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

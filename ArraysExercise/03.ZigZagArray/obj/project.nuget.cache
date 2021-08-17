@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2ei+RQ4w4D60+vBxWx06bBf1MTyhTJlSz46DGJ6yp2KP90Iu7ApgwpNq9tCldcziolxbW/YiMGWa9ajObH4LDQ==",
+  "dgSpecHash": "OnlQmdBoxa8UIiobCtGJQy+L95+WqzSMbN1y60js9nphHO9JiCJ+nOdvZGpVnTYwnNQ7I3HeQx7tDXSlzGpy0Q==",
   "success": true,
-  "projectFilePath": "/Users/toninikolov/Desktop/CSharpFundamentals/ArraysExercise/03.ZigZagArray/03.ZigZagArray.csproj",
+  "projectFilePath": "C:\\Users\\Toni\\Desktop\\CSharpFundamentals\\ArraysExercise\\03.ZigZagArray\\03.ZigZagArray.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
