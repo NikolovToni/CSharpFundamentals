@@ -1,0 +1,13 @@
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/05.Methods/02.Grade/bin/Debug/netcoreapp3.1/02.Grade.deps.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/05.Methods/02.Grade/bin/Debug/netcoreapp3.1/02.Grade.runtimeconfig.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/05.Methods/02.Grade/bin/Debug/netcoreapp3.1/02.Grade.runtimeconfig.dev.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/05.Methods/02.Grade/bin/Debug/netcoreapp3.1/02.Grade.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/05.Methods/02.Grade/bin/Debug/netcoreapp3.1/02.Grade.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/05.Methods/02.Grade/obj/Debug/netcoreapp3.1/02.Grade.csproj.AssemblyReference.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/05.Methods/02.Grade/obj/Debug/netcoreapp3.1/02.Grade.GeneratedMSBuildEditorConfig.editorconfig
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/05.Methods/02.Grade/obj/Debug/netcoreapp3.1/02.Grade.AssemblyInfoInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/05.Methods/02.Grade/obj/Debug/netcoreapp3.1/02.Grade.AssemblyInfo.cs
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/05.Methods/02.Grade/obj/Debug/netcoreapp3.1/02.Grade.csproj.CoreCompileInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/05.Methods/02.Grade/obj/Debug/netcoreapp3.1/02.Grade.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/05.Methods/02.Grade/obj/Debug/netcoreapp3.1/02.Grade.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/05.Methods/02.Grade/obj/Debug/netcoreapp3.1/02.Grade.genruntimeconfig.cache
