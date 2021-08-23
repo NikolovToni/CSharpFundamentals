@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wArQ0weUo80B33HndBMrmOdKqH/Uz+UIR0nScI1UNZGfhgm4ilkvfnYcrmLzpsg89ziGrlhdrHw2b041fv5dTw==",
+  "dgSpecHash": "ybUijTzw4yVyNmAmm40bWV9IeIAkJjHAUu/fpxglz64sOuPL4vKWZOOcFQjVgdb4bKccHJnZPWKjMMH15J1MWA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Toni\\Desktop\\CSharpFundamentals\\TeachMeCSharp\\05.Methods\\01.SignOfNumber\\01.SignOfNumber.csproj",
+  "projectFilePath": "/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/05.Methods/01.SignOfNumber/01.SignOfNumber.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
