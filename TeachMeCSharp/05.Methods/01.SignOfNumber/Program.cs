@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Linq;
+using System.Collections.Generic;
 
 namespace _01.SignOfNumber
 {
@@ -6,23 +8,30 @@ namespace _01.SignOfNumber
     {
         static void Main(string[] args)
         {
-            int number = int.Parse(Console.ReadLine());
+            int[] number = Console.ReadLine()
+                .Split(' ', StringSplitOptions.RemoveEmptyEntries)
+                .Select(int.Parse)
+                .ToArray();
+
             GetSignOfNumber(number);
         }
 
-        static void GetSignOfNumber(int number)
+        static void GetSignOfNumber(int[] number)
         {
-            if (number > 0)
+            for (int i = 0; i < number.Length; i++)
             {
-                Console.WriteLine("positive");
-            }
-            else if (number < 0)
-            {
-                Console.WriteLine("negative");
-            }
-            else
-            {
-                Console.WriteLine("zero");
+                if (number[i] > 0)
+                {
+                    Console.WriteLine($"{number[i]} - positive");
+                }
+                else if (number[i] < 0)
+                {
+                    Console.WriteLine($"{number[i]} - negative");
+                }
+                else
+                {
+                    Console.WriteLine($"{number[i]} - zero");
+                }
             }
         }
     }
