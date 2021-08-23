@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zKdoAgJkJpYiI9vzEFrldQ+w2gPfmeSxNOG5kzRe4RN0aezOc1Zjky5GNg/epixd5TNGCsIBpiNXJB8zCkVCgg==",
+  "dgSpecHash": "TTdrXfMVu5wYIblLxmAFHKVWWnW5z2MX2wzeMeuvx+8eDHSOeegrGceaMmuzj738tPsuwHgpUHakuA9ZRKMJHA==",
   "success": true,
-  "projectFilePath": "/Users/toninikolov/Desktop/CSharpFundamentals/ArraysExercise/04.ArrayRotation/04.ArrayRotation.csproj",
+  "projectFilePath": "C:\\Users\\Toni\\Desktop\\CSharpFundamentals\\ArraysExercise\\04.ArrayRotation\\04.ArrayRotation.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

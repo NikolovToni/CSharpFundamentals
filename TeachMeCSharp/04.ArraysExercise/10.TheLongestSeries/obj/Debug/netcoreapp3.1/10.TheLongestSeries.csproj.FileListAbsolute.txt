@@ -1,0 +1,13 @@
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\04.ArraysExercise\10.TheLongestSeries\bin\Debug\netcoreapp3.1\10.TheLongestSeries.exe
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\04.ArraysExercise\10.TheLongestSeries\bin\Debug\netcoreapp3.1\10.TheLongestSeries.deps.json
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\04.ArraysExercise\10.TheLongestSeries\bin\Debug\netcoreapp3.1\10.TheLongestSeries.runtimeconfig.json
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\04.ArraysExercise\10.TheLongestSeries\bin\Debug\netcoreapp3.1\10.TheLongestSeries.runtimeconfig.dev.json
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\04.ArraysExercise\10.TheLongestSeries\bin\Debug\netcoreapp3.1\10.TheLongestSeries.dll
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\04.ArraysExercise\10.TheLongestSeries\bin\Debug\netcoreapp3.1\10.TheLongestSeries.pdb
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\04.ArraysExercise\10.TheLongestSeries\obj\Debug\netcoreapp3.1\10.TheLongestSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\04.ArraysExercise\10.TheLongestSeries\obj\Debug\netcoreapp3.1\10.TheLongestSeries.AssemblyInfoInputs.cache
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\04.ArraysExercise\10.TheLongestSeries\obj\Debug\netcoreapp3.1\10.TheLongestSeries.AssemblyInfo.cs
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\04.ArraysExercise\10.TheLongestSeries\obj\Debug\netcoreapp3.1\10.TheLongestSeries.csproj.CoreCompileInputs.cache
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\04.ArraysExercise\10.TheLongestSeries\obj\Debug\netcoreapp3.1\10.TheLongestSeries.dll
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\04.ArraysExercise\10.TheLongestSeries\obj\Debug\netcoreapp3.1\10.TheLongestSeries.pdb
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\04.ArraysExercise\10.TheLongestSeries\obj\Debug\netcoreapp3.1\10.TheLongestSeries.genruntimeconfig.cache
