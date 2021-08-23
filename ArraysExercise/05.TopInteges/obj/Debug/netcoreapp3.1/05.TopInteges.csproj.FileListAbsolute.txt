@@ -1,0 +1,13 @@
+C:\Users\Toni\Desktop\CSharpFundamentals\ArraysExercise\05.TopInteges\bin\Debug\netcoreapp3.1\05.TopInteges.exe
+C:\Users\Toni\Desktop\CSharpFundamentals\ArraysExercise\05.TopInteges\bin\Debug\netcoreapp3.1\05.TopInteges.deps.json
+C:\Users\Toni\Desktop\CSharpFundamentals\ArraysExercise\05.TopInteges\bin\Debug\netcoreapp3.1\05.TopInteges.runtimeconfig.json
+C:\Users\Toni\Desktop\CSharpFundamentals\ArraysExercise\05.TopInteges\bin\Debug\netcoreapp3.1\05.TopInteges.runtimeconfig.dev.json
+C:\Users\Toni\Desktop\CSharpFundamentals\ArraysExercise\05.TopInteges\bin\Debug\netcoreapp3.1\05.TopInteges.dll
+C:\Users\Toni\Desktop\CSharpFundamentals\ArraysExercise\05.TopInteges\bin\Debug\netcoreapp3.1\05.TopInteges.pdb
+C:\Users\Toni\Desktop\CSharpFundamentals\ArraysExercise\05.TopInteges\obj\Debug\netcoreapp3.1\05.TopInteges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toni\Desktop\CSharpFundamentals\ArraysExercise\05.TopInteges\obj\Debug\netcoreapp3.1\05.TopInteges.AssemblyInfoInputs.cache
+C:\Users\Toni\Desktop\CSharpFundamentals\ArraysExercise\05.TopInteges\obj\Debug\netcoreapp3.1\05.TopInteges.AssemblyInfo.cs
+C:\Users\Toni\Desktop\CSharpFundamentals\ArraysExercise\05.TopInteges\obj\Debug\netcoreapp3.1\05.TopInteges.csproj.CoreCompileInputs.cache
+C:\Users\Toni\Desktop\CSharpFundamentals\ArraysExercise\05.TopInteges\obj\Debug\netcoreapp3.1\05.TopInteges.dll
+C:\Users\Toni\Desktop\CSharpFundamentals\ArraysExercise\05.TopInteges\obj\Debug\netcoreapp3.1\05.TopInteges.pdb
+C:\Users\Toni\Desktop\CSharpFundamentals\ArraysExercise\05.TopInteges\obj\Debug\netcoreapp3.1\05.TopInteges.genruntimeconfig.cache

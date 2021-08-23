@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Linq;
+using System.Collections.Generic;
 
 namespace _05.TopInteges
 {
@@ -6,7 +8,26 @@ namespace _05.TopInteges
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int[] arr = Console.ReadLine()
+                .Split(' ', StringSplitOptions.RemoveEmptyEntries)
+                .Select(int.Parse)
+                .ToArray();
+            int topInteger;
+            for (int i = 0; i < arr.Length; i++)
+            {
+                topInteger = arr[0];
+                for (int j = 0; j < arr.Length; j++)
+                {
+                    if (arr[i] > arr[j])
+                    {
+                        topInteger = arr[i];
+                    }
+                }
+
+                Console.WriteLine(topInteger);
+            }
+
+
         }
     }
 }
