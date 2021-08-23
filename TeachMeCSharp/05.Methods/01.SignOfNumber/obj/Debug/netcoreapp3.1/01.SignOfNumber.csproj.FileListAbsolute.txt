@@ -1,0 +1,14 @@
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\05.Methods\01.SignOfNumber\bin\Debug\netcoreapp3.1\01.SignOfNumber.exe
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\05.Methods\01.SignOfNumber\bin\Debug\netcoreapp3.1\01.SignOfNumber.deps.json
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\05.Methods\01.SignOfNumber\bin\Debug\netcoreapp3.1\01.SignOfNumber.runtimeconfig.json
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\05.Methods\01.SignOfNumber\bin\Debug\netcoreapp3.1\01.SignOfNumber.runtimeconfig.dev.json
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\05.Methods\01.SignOfNumber\bin\Debug\netcoreapp3.1\01.SignOfNumber.dll
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\05.Methods\01.SignOfNumber\bin\Debug\netcoreapp3.1\01.SignOfNumber.pdb
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\05.Methods\01.SignOfNumber\obj\Debug\netcoreapp3.1\01.SignOfNumber.csproj.AssemblyReference.cache
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\05.Methods\01.SignOfNumber\obj\Debug\netcoreapp3.1\01.SignOfNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\05.Methods\01.SignOfNumber\obj\Debug\netcoreapp3.1\01.SignOfNumber.AssemblyInfoInputs.cache
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\05.Methods\01.SignOfNumber\obj\Debug\netcoreapp3.1\01.SignOfNumber.AssemblyInfo.cs
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\05.Methods\01.SignOfNumber\obj\Debug\netcoreapp3.1\01.SignOfNumber.csproj.CoreCompileInputs.cache
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\05.Methods\01.SignOfNumber\obj\Debug\netcoreapp3.1\01.SignOfNumber.dll
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\05.Methods\01.SignOfNumber\obj\Debug\netcoreapp3.1\01.SignOfNumber.pdb
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\05.Methods\01.SignOfNumber\obj\Debug\netcoreapp3.1\01.SignOfNumber.genruntimeconfig.cache
