@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Toni\\Desktop\\CSharpFundamentals\\TeachMeCSharp\\05.Methods\\01.SignOfNumber\\01.SignOfNumber.csproj",
-      "projectName": "01.SignOfNumber",
-      "projectPath": "C:\\Users\\Toni\\Desktop\\CSharpFundamentals\\TeachMeCSharp\\05.Methods\\01.SignOfNumber\\01.SignOfNumber.csproj",
+      "projectUniqueName": "C:\\Users\\Toni\\Desktop\\CSharpFundamentals\\TeachMeCSharp\\05.Methods\\04.Calculator\\04.Calculator.csproj",
+      "projectName": "04.Calculator",
+      "projectPath": "C:\\Users\\Toni\\Desktop\\CSharpFundamentals\\TeachMeCSharp\\05.Methods\\04.Calculator\\04.Calculator.csproj",
       "packagesPath": "C:\\Users\\Toni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Toni\\Desktop\\CSharpFundamentals\\TeachMeCSharp\\05.Methods\\01.SignOfNumber\\obj\\",
+      "outputPath": "C:\\Users\\Toni\\Desktop\\CSharpFundamentals\\TeachMeCSharp\\05.Methods\\04.Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
