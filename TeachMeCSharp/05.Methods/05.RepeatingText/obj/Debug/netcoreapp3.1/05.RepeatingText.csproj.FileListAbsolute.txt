@@ -1,0 +1,13 @@
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\05.Methods\05.RepeatingText\bin\Debug\netcoreapp3.1\05.RepeatingText.exe
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\05.Methods\05.RepeatingText\bin\Debug\netcoreapp3.1\05.RepeatingText.deps.json
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\05.Methods\05.RepeatingText\bin\Debug\netcoreapp3.1\05.RepeatingText.runtimeconfig.json
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\05.Methods\05.RepeatingText\bin\Debug\netcoreapp3.1\05.RepeatingText.runtimeconfig.dev.json
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\05.Methods\05.RepeatingText\bin\Debug\netcoreapp3.1\05.RepeatingText.dll
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\05.Methods\05.RepeatingText\bin\Debug\netcoreapp3.1\05.RepeatingText.pdb
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\05.Methods\05.RepeatingText\obj\Debug\netcoreapp3.1\05.RepeatingText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\05.Methods\05.RepeatingText\obj\Debug\netcoreapp3.1\05.RepeatingText.AssemblyInfoInputs.cache
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\05.Methods\05.RepeatingText\obj\Debug\netcoreapp3.1\05.RepeatingText.AssemblyInfo.cs
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\05.Methods\05.RepeatingText\obj\Debug\netcoreapp3.1\05.RepeatingText.csproj.CoreCompileInputs.cache
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\05.Methods\05.RepeatingText\obj\Debug\netcoreapp3.1\05.RepeatingText.dll
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\05.Methods\05.RepeatingText\obj\Debug\netcoreapp3.1\05.RepeatingText.pdb
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\05.Methods\05.RepeatingText\obj\Debug\netcoreapp3.1\05.RepeatingText.genruntimeconfig.cache

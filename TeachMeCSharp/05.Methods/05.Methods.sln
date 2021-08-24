@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Calculator", "04.Calcula
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.RepeatingText", "05.RepeatingText\05.RepeatingText.csproj", "{A7FC2179-DE3F-41EB-97FE-3725D84F44E0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Carousel", "06.Carousel\06.Carousel.csproj", "{377B1BB6-C585-487B-8A9E-94C16A01AA0E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{A7FC2179-DE3F-41EB-97FE-3725D84F44E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7FC2179-DE3F-41EB-97FE-3725D84F44E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7FC2179-DE3F-41EB-97FE-3725D84F44E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{377B1BB6-C585-487B-8A9E-94C16A01AA0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{377B1BB6-C585-487B-8A9E-94C16A01AA0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{377B1BB6-C585-487B-8A9E-94C16A01AA0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{377B1BB6-C585-487B-8A9E-94C16A01AA0E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
