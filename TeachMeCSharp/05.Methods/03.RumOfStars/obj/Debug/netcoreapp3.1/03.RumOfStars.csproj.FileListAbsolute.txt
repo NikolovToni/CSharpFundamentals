@@ -1,0 +1,13 @@
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/05.Methods/03.RumOfStars/bin/Debug/netcoreapp3.1/03.RumOfStars.deps.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/05.Methods/03.RumOfStars/bin/Debug/netcoreapp3.1/03.RumOfStars.runtimeconfig.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/05.Methods/03.RumOfStars/bin/Debug/netcoreapp3.1/03.RumOfStars.runtimeconfig.dev.json
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/05.Methods/03.RumOfStars/bin/Debug/netcoreapp3.1/03.RumOfStars.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/05.Methods/03.RumOfStars/bin/Debug/netcoreapp3.1/03.RumOfStars.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/05.Methods/03.RumOfStars/obj/Debug/netcoreapp3.1/03.RumOfStars.csproj.AssemblyReference.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/05.Methods/03.RumOfStars/obj/Debug/netcoreapp3.1/03.RumOfStars.GeneratedMSBuildEditorConfig.editorconfig
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/05.Methods/03.RumOfStars/obj/Debug/netcoreapp3.1/03.RumOfStars.AssemblyInfoInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/05.Methods/03.RumOfStars/obj/Debug/netcoreapp3.1/03.RumOfStars.AssemblyInfo.cs
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/05.Methods/03.RumOfStars/obj/Debug/netcoreapp3.1/03.RumOfStars.csproj.CoreCompileInputs.cache
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/05.Methods/03.RumOfStars/obj/Debug/netcoreapp3.1/03.RumOfStars.dll
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/05.Methods/03.RumOfStars/obj/Debug/netcoreapp3.1/03.RumOfStars.pdb
+/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/05.Methods/03.RumOfStars/obj/Debug/netcoreapp3.1/03.RumOfStars.genruntimeconfig.cache

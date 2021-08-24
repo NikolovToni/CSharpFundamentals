@@ -3,7 +3,7 @@
   <MonoDevelop.Ide.ItemProperties.02.Grade PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="03.RumOfStars/Program.cs">
     <Files>
-      <File FileName="03.RumOfStars/Program.cs" Line="8" Column="10" />
+      <File FileName="03.RumOfStars/Program.cs" Line="21" Column="40" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -23,5 +23,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.03.RumOfStars FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.03.RumOfStars PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
