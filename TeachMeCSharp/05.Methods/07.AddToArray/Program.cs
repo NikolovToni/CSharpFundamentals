@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Linq;
+using System.Collections.Generic;
 
 namespace _07.AddToArray
 {
@@ -6,7 +8,21 @@ namespace _07.AddToArray
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int[] arr = Console.ReadLine()
+                .Split(' ', StringSplitOptions.RemoveEmptyEntries)
+                .Select(int.Parse)
+                .ToArray();
+
+            while (true)
+            {
+                string command = Console.ReadLine();
+                if (command == "Stop")
+                {
+                    break;
+                }
+
+                command.ToArray();
+            }
         }
     }
 }
