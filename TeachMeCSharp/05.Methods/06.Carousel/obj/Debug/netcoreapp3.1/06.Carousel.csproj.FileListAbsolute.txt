@@ -1,0 +1,13 @@
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\05.Methods\06.Carousel\bin\Debug\netcoreapp3.1\06.Carousel.exe
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\05.Methods\06.Carousel\bin\Debug\netcoreapp3.1\06.Carousel.deps.json
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\05.Methods\06.Carousel\bin\Debug\netcoreapp3.1\06.Carousel.runtimeconfig.json
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\05.Methods\06.Carousel\bin\Debug\netcoreapp3.1\06.Carousel.runtimeconfig.dev.json
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\05.Methods\06.Carousel\bin\Debug\netcoreapp3.1\06.Carousel.dll
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\05.Methods\06.Carousel\bin\Debug\netcoreapp3.1\06.Carousel.pdb
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\05.Methods\06.Carousel\obj\Debug\netcoreapp3.1\06.Carousel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\05.Methods\06.Carousel\obj\Debug\netcoreapp3.1\06.Carousel.AssemblyInfoInputs.cache
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\05.Methods\06.Carousel\obj\Debug\netcoreapp3.1\06.Carousel.AssemblyInfo.cs
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\05.Methods\06.Carousel\obj\Debug\netcoreapp3.1\06.Carousel.csproj.CoreCompileInputs.cache
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\05.Methods\06.Carousel\obj\Debug\netcoreapp3.1\06.Carousel.dll
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\05.Methods\06.Carousel\obj\Debug\netcoreapp3.1\06.Carousel.pdb
+C:\Users\Toni\Desktop\CSharpFundamentals\TeachMeCSharp\05.Methods\06.Carousel\obj\Debug\netcoreapp3.1\06.Carousel.genruntimeconfig.cache

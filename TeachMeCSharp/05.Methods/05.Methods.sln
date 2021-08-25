@@ -3,11 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31613.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.SignOfNumber", "01.SignOfNumber\01.SignOfNumber.csproj", "{9C092CDA-C387-46DD-8D76-A35B6B2D043A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.SignOfNumber", "01.SignOfNumber\01.SignOfNumber.csproj", "{9C092CDA-C387-46DD-8D76-A35B6B2D043A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Grade", "02.Grade\02.Grade.csproj", "{52E6440C-D5C1-42B2-99A3-60F7416DC9CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.Grade", "02.Grade\02.Grade.csproj", "{52E6440C-D5C1-42B2-99A3-60F7416DC9CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.RumOfStars", "03.RumOfStars\03.RumOfStars.csproj", "{5D0E50D2-827D-464D-A406-DC89D4FDC241}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.RumOfStars", "03.RumOfStars\03.RumOfStars.csproj", "{5D0E50D2-827D-464D-A406-DC89D4FDC241}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Calculator", "04.Calculator\04.Calculator.csproj", "{283E344C-B85D-4637-94C4-2CEFF6F925AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.RepeatingText", "05.RepeatingText\05.RepeatingText.csproj", "{A7FC2179-DE3F-41EB-97FE-3725D84F44E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Carousel", "06.Carousel\06.Carousel.csproj", "{377B1BB6-C585-487B-8A9E-94C16A01AA0E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +33,18 @@ Global
 		{5D0E50D2-827D-464D-A406-DC89D4FDC241}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D0E50D2-827D-464D-A406-DC89D4FDC241}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D0E50D2-827D-464D-A406-DC89D4FDC241}.Release|Any CPU.Build.0 = Release|Any CPU
+		{283E344C-B85D-4637-94C4-2CEFF6F925AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{283E344C-B85D-4637-94C4-2CEFF6F925AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{283E344C-B85D-4637-94C4-2CEFF6F925AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{283E344C-B85D-4637-94C4-2CEFF6F925AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7FC2179-DE3F-41EB-97FE-3725D84F44E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7FC2179-DE3F-41EB-97FE-3725D84F44E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7FC2179-DE3F-41EB-97FE-3725D84F44E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7FC2179-DE3F-41EB-97FE-3725D84F44E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{377B1BB6-C585-487B-8A9E-94C16A01AA0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{377B1BB6-C585-487B-8A9E-94C16A01AA0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{377B1BB6-C585-487B-8A9E-94C16A01AA0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{377B1BB6-C585-487B-8A9E-94C16A01AA0E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
