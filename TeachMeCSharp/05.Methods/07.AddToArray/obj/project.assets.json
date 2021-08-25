@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/05.Methods/01.SignOfNumber/01.SignOfNumber.csproj",
-      "projectName": "01.SignOfNumber",
-      "projectPath": "/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/05.Methods/01.SignOfNumber/01.SignOfNumber.csproj",
+      "projectUniqueName": "/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/05.Methods/07.AddToArray/07.AddToArray.csproj",
+      "projectName": "07.AddToArray",
+      "projectPath": "/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/05.Methods/07.AddToArray/07.AddToArray.csproj",
       "packagesPath": "/Users/toninikolov/.nuget/packages/",
-      "outputPath": "/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/05.Methods/01.SignOfNumber/obj/",
+      "outputPath": "/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/05.Methods/07.AddToArray/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/toninikolov/.config/NuGet/NuGet.Config"

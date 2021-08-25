@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OdSUYrlyQrDlrV57KilfoJ5n1lhYmPYWzG/KunUc7mlM5rj06n6gmPIXEqCH/k2fqJ+8c+Zmj4aeTir30KfakQ==",
+  "dgSpecHash": "oUQK+L6ecomF+OsmmDoq6XTHifdtnCk3FvqJawaW+Wyn6k0aA9LJdg63C3GMi9Y6KZyN7u928FWDD3lNeaCIYA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Toni\\Desktop\\CSharpFundamentals\\TeachMeCSharp\\05.Methods\\02.Grade\\02.Grade.csproj",
+  "projectFilePath": "/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/05.Methods/02.Grade/02.Grade.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

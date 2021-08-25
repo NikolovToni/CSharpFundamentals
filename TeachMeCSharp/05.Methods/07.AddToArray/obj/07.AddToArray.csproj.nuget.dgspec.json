@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/05.Methods/05.RepeatingText/05.RepeatingText.csproj": {}
+    "/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/05.Methods/07.AddToArray/07.AddToArray.csproj": {}
   },
   "projects": {
-    "/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/05.Methods/05.RepeatingText/05.RepeatingText.csproj": {
+    "/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/05.Methods/07.AddToArray/07.AddToArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/05.Methods/05.RepeatingText/05.RepeatingText.csproj",
-        "projectName": "05.RepeatingText",
-        "projectPath": "/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/05.Methods/05.RepeatingText/05.RepeatingText.csproj",
+        "projectUniqueName": "/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/05.Methods/07.AddToArray/07.AddToArray.csproj",
+        "projectName": "07.AddToArray",
+        "projectPath": "/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/05.Methods/07.AddToArray/07.AddToArray.csproj",
         "packagesPath": "/Users/toninikolov/.nuget/packages/",
-        "outputPath": "/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/05.Methods/05.RepeatingText/obj/",
+        "outputPath": "/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/05.Methods/07.AddToArray/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/toninikolov/.config/NuGet/NuGet.Config"

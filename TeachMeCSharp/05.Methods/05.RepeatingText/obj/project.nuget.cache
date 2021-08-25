@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l88CJF0eubuRrNn4RhNeXf1PmLcE4bcRY+FtdDzqDl2lJw+n8fOnCcapY9fUL/GPbKb0uRds5XRahh84H+Sm9A==",
+  "dgSpecHash": "pd9v8UV+B//5maye4C3X/SkMmqmB2xBh3mPkeTBtmwVJVI4YYUpWP7Fy2hpK3+eVhi/TbXih578mcoExNMjtFA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Toni\\Desktop\\CSharpFundamentals\\TeachMeCSharp\\05.Methods\\05.RepeatingText\\05.RepeatingText.csproj",
+  "projectFilePath": "/Users/toninikolov/Desktop/CSharpFundamentals/TeachMeCSharp/05.Methods/05.RepeatingText/05.RepeatingText.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

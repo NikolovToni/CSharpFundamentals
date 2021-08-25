@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.RepeatingText", "05.Repe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Carousel", "06.Carousel\06.Carousel.csproj", "{377B1BB6-C585-487B-8A9E-94C16A01AA0E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.AddToArray", "07.AddToArray\07.AddToArray.csproj", "{48809C83-E777-4214-99C6-FB4C5BBC0CDF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{377B1BB6-C585-487B-8A9E-94C16A01AA0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{377B1BB6-C585-487B-8A9E-94C16A01AA0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{377B1BB6-C585-487B-8A9E-94C16A01AA0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48809C83-E777-4214-99C6-FB4C5BBC0CDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48809C83-E777-4214-99C6-FB4C5BBC0CDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48809C83-E777-4214-99C6-FB4C5BBC0CDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48809C83-E777-4214-99C6-FB4C5BBC0CDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
